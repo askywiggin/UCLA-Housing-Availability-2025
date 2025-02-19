@@ -1,621 +1,1086 @@
 Building,Abbreviation,RoomType,BuildingType,Gender,TimeStamp,BedsAvailable
-De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T09:00:00Z,750
-De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T10:00:00Z,736
-De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T11:00:00Z,725
-De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T12:00:00Z,725
-De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,33
-De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,33
-De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,30
-De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,30
-De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T09:00:00Z,462
-De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T10:00:00Z,457
-De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T11:00:00Z,447
-De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T12:00:00Z,439
-De Neve Residence Hall,DN,Deluxe Triple,Dorm,Female,2025-02-18T09:00:00Z,273
-De Neve Residence Hall,DN,Deluxe Triple,Dorm,Female,2025-02-18T10:00:00Z,271
-De Neve Residence Hall,DN,Deluxe Triple,Dorm,Female,2025-02-18T11:00:00Z,268
-De Neve Residence Hall,DN,Deluxe Triple,Dorm,Female,2025-02-18T12:00:00Z,264
-De Neve Residence Hall,DN,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,33
-De Neve Residence Hall,DN,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,33
-De Neve Residence Hall,DN,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,33
-De Neve Residence Hall,DN,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,33
-De Neve Residence Hall,DN,Deluxe Triple,Dorm,Male,2025-02-18T09:00:00Z,126
-De Neve Residence Hall,DN,Deluxe Triple,Dorm,Male,2025-02-18T10:00:00Z,126
-De Neve Residence Hall,DN,Deluxe Triple,Dorm,Male,2025-02-18T11:00:00Z,126
-De Neve Residence Hall,DN,Deluxe Triple,Dorm,Male,2025-02-18T12:00:00Z,126
-Dykstra Hall,DYK,Classic Triple,Dorm,Female,2025-02-18T09:00:00Z,468
-Dykstra Hall,DYK,Classic Triple,Dorm,Female,2025-02-18T10:00:00Z,468
-Dykstra Hall,DYK,Classic Triple,Dorm,Female,2025-02-18T11:00:00Z,468
-Dykstra Hall,DYK,Classic Triple,Dorm,Female,2025-02-18T12:00:00Z,468
-Dykstra Hall,DYK,Classic Triple,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,36
-Dykstra Hall,DYK,Classic Triple,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,36
-Dykstra Hall,DYK,Classic Triple,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,36
-Dykstra Hall,DYK,Classic Triple,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,36
-Dykstra Hall,DYK,Classic Triple,Dorm,Male,2025-02-18T09:00:00Z,261
-Dykstra Hall,DYK,Classic Triple,Dorm,Male,2025-02-18T10:00:00Z,260
-Dykstra Hall,DYK,Classic Triple,Dorm,Male,2025-02-18T11:00:00Z,260
-Dykstra Hall,DYK,Classic Triple,Dorm,Male,2025-02-18T12:00:00Z,260
 Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Female,2025-02-18T09:00:00Z,164
 Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Female,2025-02-18T10:00:00Z,157
 Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Female,2025-02-18T11:00:00Z,146
 Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Female,2025-02-18T12:00:00Z,90
+Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Female,2025-02-18T13:00:00Z,5
+Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Female,2025-02-18T14:00:00Z,0
+Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Female,2025-02-18T15:00:00Z,0
 Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,12
 Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,2
 Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,2
 Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,2
+Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,0
+Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,0
+Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,0
 Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Male,2025-02-18T09:00:00Z,100
 Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Male,2025-02-18T10:00:00Z,100
 Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Male,2025-02-18T11:00:00Z,87
 Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Male,2025-02-18T12:00:00Z,71
+Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Male,2025-02-18T13:00:00Z,53
+Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Male,2025-02-18T14:00:00Z,28
+Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Male,2025-02-18T15:00:00Z,6
 Gayley Heights,GH,1 Bd/3 Person,Apartment,Female,2025-02-18T09:00:00Z,12
 Gayley Heights,GH,1 Bd/3 Person,Apartment,Female,2025-02-18T10:00:00Z,0
 Gayley Heights,GH,1 Bd/3 Person,Apartment,Female,2025-02-18T11:00:00Z,0
 Gayley Heights,GH,1 Bd/3 Person,Apartment,Female,2025-02-18T12:00:00Z,0
+Gayley Heights,GH,1 Bd/3 Person,Apartment,Female,2025-02-18T13:00:00Z,0
+Gayley Heights,GH,1 Bd/3 Person,Apartment,Female,2025-02-18T14:00:00Z,0
+Gayley Heights,GH,1 Bd/3 Person,Apartment,Female,2025-02-18T15:00:00Z,0
 Gayley Heights,GH,1 Bd/3 Person,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,3
 Gayley Heights,GH,1 Bd/3 Person,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,3
 Gayley Heights,GH,1 Bd/3 Person,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,1
 Gayley Heights,GH,1 Bd/3 Person,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,1
+Gayley Heights,GH,1 Bd/3 Person,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,1
+Gayley Heights,GH,1 Bd/3 Person,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,1
+Gayley Heights,GH,1 Bd/3 Person,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,1
 Gayley Heights,GH,1 Bd/3 Person,Apartment,Male,2025-02-18T09:00:00Z,6
 Gayley Heights,GH,1 Bd/3 Person,Apartment,Male,2025-02-18T10:00:00Z,0
 Gayley Heights,GH,1 Bd/3 Person,Apartment,Male,2025-02-18T11:00:00Z,0
 Gayley Heights,GH,1 Bd/3 Person,Apartment,Male,2025-02-18T12:00:00Z,0
+Gayley Heights,GH,1 Bd/3 Person,Apartment,Male,2025-02-18T13:00:00Z,0
+Gayley Heights,GH,1 Bd/3 Person,Apartment,Male,2025-02-18T14:00:00Z,0
+Gayley Heights,GH,1 Bd/3 Person,Apartment,Male,2025-02-18T15:00:00Z,0
 Gayley Heights,GH,2 Bd/5 Person-Double,Apartment,Female,2025-02-18T09:00:00Z,8
 Gayley Heights,GH,2 Bd/5 Person-Double,Apartment,Female,2025-02-18T10:00:00Z,2
 Gayley Heights,GH,2 Bd/5 Person-Double,Apartment,Female,2025-02-18T11:00:00Z,1
 Gayley Heights,GH,2 Bd/5 Person-Double,Apartment,Female,2025-02-18T12:00:00Z,1
+Gayley Heights,GH,2 Bd/5 Person-Double,Apartment,Female,2025-02-18T13:00:00Z,0
+Gayley Heights,GH,2 Bd/5 Person-Double,Apartment,Female,2025-02-18T14:00:00Z,0
+Gayley Heights,GH,2 Bd/5 Person-Double,Apartment,Female,2025-02-18T15:00:00Z,0
 Gayley Heights,GH,2 Bd/5 Person-Double,Apartment,Male,2025-02-18T09:00:00Z,4
 Gayley Heights,GH,2 Bd/5 Person-Double,Apartment,Male,2025-02-18T10:00:00Z,4
 Gayley Heights,GH,2 Bd/5 Person-Double,Apartment,Male,2025-02-18T11:00:00Z,0
 Gayley Heights,GH,2 Bd/5 Person-Double,Apartment,Male,2025-02-18T12:00:00Z,0
+Gayley Heights,GH,2 Bd/5 Person-Double,Apartment,Male,2025-02-18T13:00:00Z,0
+Gayley Heights,GH,2 Bd/5 Person-Double,Apartment,Male,2025-02-18T14:00:00Z,0
+Gayley Heights,GH,2 Bd/5 Person-Double,Apartment,Male,2025-02-18T15:00:00Z,0
 Gayley Heights,GH,2 Bd/5 Person-Triple,Apartment,Female,2025-02-18T09:00:00Z,12
 Gayley Heights,GH,2 Bd/5 Person-Triple,Apartment,Female,2025-02-18T10:00:00Z,5
 Gayley Heights,GH,2 Bd/5 Person-Triple,Apartment,Female,2025-02-18T11:00:00Z,2
 Gayley Heights,GH,2 Bd/5 Person-Triple,Apartment,Female,2025-02-18T12:00:00Z,2
+Gayley Heights,GH,2 Bd/5 Person-Triple,Apartment,Female,2025-02-18T13:00:00Z,2
+Gayley Heights,GH,2 Bd/5 Person-Triple,Apartment,Female,2025-02-18T14:00:00Z,1
+Gayley Heights,GH,2 Bd/5 Person-Triple,Apartment,Female,2025-02-18T15:00:00Z,1
 Gayley Heights,GH,2 Bd/5 Person-Triple,Apartment,Male,2025-02-18T09:00:00Z,6
 Gayley Heights,GH,2 Bd/5 Person-Triple,Apartment,Male,2025-02-18T10:00:00Z,6
 Gayley Heights,GH,2 Bd/5 Person-Triple,Apartment,Male,2025-02-18T11:00:00Z,1
 Gayley Heights,GH,2 Bd/5 Person-Triple,Apartment,Male,2025-02-18T12:00:00Z,1
+Gayley Heights,GH,2 Bd/5 Person-Triple,Apartment,Male,2025-02-18T13:00:00Z,1
+Gayley Heights,GH,2 Bd/5 Person-Triple,Apartment,Male,2025-02-18T14:00:00Z,1
+Gayley Heights,GH,2 Bd/5 Person-Triple,Apartment,Male,2025-02-18T15:00:00Z,0
 Gayley Heights,GH,2 Bd/6 Person,Apartment,Female,2025-02-18T09:00:00Z,396
 Gayley Heights,GH,2 Bd/6 Person,Apartment,Female,2025-02-18T10:00:00Z,384
 Gayley Heights,GH,2 Bd/6 Person,Apartment,Female,2025-02-18T11:00:00Z,364
 Gayley Heights,GH,2 Bd/6 Person,Apartment,Female,2025-02-18T12:00:00Z,336
+Gayley Heights,GH,2 Bd/6 Person,Apartment,Female,2025-02-18T13:00:00Z,205
+Gayley Heights,GH,2 Bd/6 Person,Apartment,Female,2025-02-18T14:00:00Z,47
+Gayley Heights,GH,2 Bd/6 Person,Apartment,Female,2025-02-18T15:00:00Z,26
 Gayley Heights,GH,2 Bd/6 Person,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,30
 Gayley Heights,GH,2 Bd/6 Person,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,20
 Gayley Heights,GH,2 Bd/6 Person,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,4
 Gayley Heights,GH,2 Bd/6 Person,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,2
+Gayley Heights,GH,2 Bd/6 Person,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,1
+Gayley Heights,GH,2 Bd/6 Person,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,1
+Gayley Heights,GH,2 Bd/6 Person,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,1
 Gayley Heights,GH,2 Bd/6 Person,Apartment,Male,2025-02-18T09:00:00Z,240
 Gayley Heights,GH,2 Bd/6 Person,Apartment,Male,2025-02-18T10:00:00Z,230
 Gayley Heights,GH,2 Bd/6 Person,Apartment,Male,2025-02-18T11:00:00Z,178
 Gayley Heights,GH,2 Bd/6 Person,Apartment,Male,2025-02-18T12:00:00Z,149
+Gayley Heights,GH,2 Bd/6 Person,Apartment,Male,2025-02-18T13:00:00Z,133
+Gayley Heights,GH,2 Bd/6 Person,Apartment,Male,2025-02-18T14:00:00Z,96
+Gayley Heights,GH,2 Bd/6 Person,Apartment,Male,2025-02-18T15:00:00Z,35
 Gayley Heights,GH,2 Bd/7 Person-Quad,Apartment,Female,2025-02-18T09:00:00Z,44
 Gayley Heights,GH,2 Bd/7 Person-Quad,Apartment,Female,2025-02-18T10:00:00Z,40
 Gayley Heights,GH,2 Bd/7 Person-Quad,Apartment,Female,2025-02-18T11:00:00Z,44
 Gayley Heights,GH,2 Bd/7 Person-Quad,Apartment,Female,2025-02-18T12:00:00Z,44
+Gayley Heights,GH,2 Bd/7 Person-Quad,Apartment,Female,2025-02-18T13:00:00Z,40
+Gayley Heights,GH,2 Bd/7 Person-Quad,Apartment,Female,2025-02-18T14:00:00Z,40
+Gayley Heights,GH,2 Bd/7 Person-Quad,Apartment,Female,2025-02-18T15:00:00Z,9
 Gayley Heights,GH,2 Bd/7 Person-Quad,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,4
 Gayley Heights,GH,2 Bd/7 Person-Quad,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,4
 Gayley Heights,GH,2 Bd/7 Person-Quad,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,0
 Gayley Heights,GH,2 Bd/7 Person-Quad,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,0
+Gayley Heights,GH,2 Bd/7 Person-Quad,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,0
+Gayley Heights,GH,2 Bd/7 Person-Quad,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,0
+Gayley Heights,GH,2 Bd/7 Person-Quad,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,0
 Gayley Heights,GH,2 Bd/7 Person-Quad,Apartment,Male,2025-02-18T09:00:00Z,28
 Gayley Heights,GH,2 Bd/7 Person-Quad,Apartment,Male,2025-02-18T10:00:00Z,28
 Gayley Heights,GH,2 Bd/7 Person-Quad,Apartment,Male,2025-02-18T11:00:00Z,28
 Gayley Heights,GH,2 Bd/7 Person-Quad,Apartment,Male,2025-02-18T12:00:00Z,28
+Gayley Heights,GH,2 Bd/7 Person-Quad,Apartment,Male,2025-02-18T13:00:00Z,28
+Gayley Heights,GH,2 Bd/7 Person-Quad,Apartment,Male,2025-02-18T14:00:00Z,28
+Gayley Heights,GH,2 Bd/7 Person-Quad,Apartment,Male,2025-02-18T15:00:00Z,24
 Gayley Heights,GH,2 Bd/7 Person-Triple,Apartment,Female,2025-02-18T09:00:00Z,33
 Gayley Heights,GH,2 Bd/7 Person-Triple,Apartment,Female,2025-02-18T10:00:00Z,33
 Gayley Heights,GH,2 Bd/7 Person-Triple,Apartment,Female,2025-02-18T11:00:00Z,33
 Gayley Heights,GH,2 Bd/7 Person-Triple,Apartment,Female,2025-02-18T12:00:00Z,33
+Gayley Heights,GH,2 Bd/7 Person-Triple,Apartment,Female,2025-02-18T13:00:00Z,33
+Gayley Heights,GH,2 Bd/7 Person-Triple,Apartment,Female,2025-02-18T14:00:00Z,28
+Gayley Heights,GH,2 Bd/7 Person-Triple,Apartment,Female,2025-02-18T15:00:00Z,2
 Gayley Heights,GH,2 Bd/7 Person-Triple,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,3
 Gayley Heights,GH,2 Bd/7 Person-Triple,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,3
 Gayley Heights,GH,2 Bd/7 Person-Triple,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,0
 Gayley Heights,GH,2 Bd/7 Person-Triple,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,0
+Gayley Heights,GH,2 Bd/7 Person-Triple,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,0
+Gayley Heights,GH,2 Bd/7 Person-Triple,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,0
+Gayley Heights,GH,2 Bd/7 Person-Triple,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,0
 Gayley Heights,GH,2 Bd/7 Person-Triple,Apartment,Male,2025-02-18T09:00:00Z,21
 Gayley Heights,GH,2 Bd/7 Person-Triple,Apartment,Male,2025-02-18T10:00:00Z,21
 Gayley Heights,GH,2 Bd/7 Person-Triple,Apartment,Male,2025-02-18T11:00:00Z,21
 Gayley Heights,GH,2 Bd/7 Person-Triple,Apartment,Male,2025-02-18T12:00:00Z,21
+Gayley Heights,GH,2 Bd/7 Person-Triple,Apartment,Male,2025-02-18T13:00:00Z,21
+Gayley Heights,GH,2 Bd/7 Person-Triple,Apartment,Male,2025-02-18T14:00:00Z,21
+Gayley Heights,GH,2 Bd/7 Person-Triple,Apartment,Male,2025-02-18T15:00:00Z,21
 Gayley Heights,GH,3 Bd/8 Person-Double,Apartment,Female,2025-02-18T09:00:00Z,2
 Gayley Heights,GH,3 Bd/8 Person-Double,Apartment,Female,2025-02-18T10:00:00Z,0
 Gayley Heights,GH,3 Bd/8 Person-Double,Apartment,Female,2025-02-18T11:00:00Z,0
 Gayley Heights,GH,3 Bd/8 Person-Double,Apartment,Female,2025-02-18T12:00:00Z,0
+Gayley Heights,GH,3 Bd/8 Person-Double,Apartment,Female,2025-02-18T13:00:00Z,0
+Gayley Heights,GH,3 Bd/8 Person-Double,Apartment,Female,2025-02-18T14:00:00Z,0
+Gayley Heights,GH,3 Bd/8 Person-Double,Apartment,Female,2025-02-18T15:00:00Z,0
 Gayley Heights,GH,3 Bd/8 Person-Double,Apartment,Male,2025-02-18T09:00:00Z,2
 Gayley Heights,GH,3 Bd/8 Person-Double,Apartment,Male,2025-02-18T10:00:00Z,2
 Gayley Heights,GH,3 Bd/8 Person-Double,Apartment,Male,2025-02-18T11:00:00Z,2
 Gayley Heights,GH,3 Bd/8 Person-Double,Apartment,Male,2025-02-18T12:00:00Z,2
+Gayley Heights,GH,3 Bd/8 Person-Double,Apartment,Male,2025-02-18T13:00:00Z,0
+Gayley Heights,GH,3 Bd/8 Person-Double,Apartment,Male,2025-02-18T14:00:00Z,0
+Gayley Heights,GH,3 Bd/8 Person-Double,Apartment,Male,2025-02-18T15:00:00Z,0
 Gayley Heights,GH,3 Bd/8 Person-Triple,Apartment,Female,2025-02-18T09:00:00Z,6
 Gayley Heights,GH,3 Bd/8 Person-Triple,Apartment,Female,2025-02-18T10:00:00Z,0
 Gayley Heights,GH,3 Bd/8 Person-Triple,Apartment,Female,2025-02-18T11:00:00Z,0
 Gayley Heights,GH,3 Bd/8 Person-Triple,Apartment,Female,2025-02-18T12:00:00Z,0
+Gayley Heights,GH,3 Bd/8 Person-Triple,Apartment,Female,2025-02-18T13:00:00Z,0
+Gayley Heights,GH,3 Bd/8 Person-Triple,Apartment,Female,2025-02-18T14:00:00Z,0
+Gayley Heights,GH,3 Bd/8 Person-Triple,Apartment,Female,2025-02-18T15:00:00Z,0
 Gayley Heights,GH,3 Bd/8 Person-Triple,Apartment,Male,2025-02-18T09:00:00Z,6
 Gayley Heights,GH,3 Bd/8 Person-Triple,Apartment,Male,2025-02-18T10:00:00Z,6
 Gayley Heights,GH,3 Bd/8 Person-Triple,Apartment,Male,2025-02-18T11:00:00Z,6
 Gayley Heights,GH,3 Bd/8 Person-Triple,Apartment,Male,2025-02-18T12:00:00Z,6
+Gayley Heights,GH,3 Bd/8 Person-Triple,Apartment,Male,2025-02-18T13:00:00Z,6
+Gayley Heights,GH,3 Bd/8 Person-Triple,Apartment,Male,2025-02-18T14:00:00Z,6
+Gayley Heights,GH,3 Bd/8 Person-Triple,Apartment,Male,2025-02-18T15:00:00Z,6
 Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T09:00:00Z,70
 Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T10:00:00Z,70
 Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T11:00:00Z,70
 Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T12:00:00Z,70
+Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T13:00:00Z,66
+Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T14:00:00Z,50
+Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T15:00:00Z,26
 Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,4
 Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,4
 Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,2
 Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,0
+Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,0
+Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,0
+Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,0
 Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T09:00:00Z,44
 Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T10:00:00Z,40
 Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T11:00:00Z,40
 Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T12:00:00Z,40
+Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T13:00:00Z,40
+Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T14:00:00Z,38
+Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T15:00:00Z,33
 Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T09:00:00Z,108
 Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T10:00:00Z,108
 Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T11:00:00Z,108
 Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T12:00:00Z,108
+Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T13:00:00Z,102
+Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T14:00:00Z,102
+Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T15:00:00Z,90
 Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,6
 Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,6
 Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,0
 Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,0
+Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,0
+Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,0
+Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,0
 Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T09:00:00Z,66
 Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T10:00:00Z,60
 Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T11:00:00Z,60
 Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T12:00:00Z,60
+Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T13:00:00Z,60
+Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T14:00:00Z,60
+Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T15:00:00Z,54
 Glenrock Apartments,GR,2 Bd/3 Person-Double,Apartment,Female,2025-02-18T09:00:00Z,4
 Glenrock Apartments,GR,2 Bd/3 Person-Double,Apartment,Female,2025-02-18T10:00:00Z,0
 Glenrock Apartments,GR,2 Bd/3 Person-Double,Apartment,Female,2025-02-18T11:00:00Z,0
 Glenrock Apartments,GR,2 Bd/3 Person-Double,Apartment,Female,2025-02-18T12:00:00Z,0
+Glenrock Apartments,GR,2 Bd/3 Person-Double,Apartment,Female,2025-02-18T13:00:00Z,0
+Glenrock Apartments,GR,2 Bd/3 Person-Double,Apartment,Female,2025-02-18T14:00:00Z,0
+Glenrock Apartments,GR,2 Bd/3 Person-Double,Apartment,Female,2025-02-18T15:00:00Z,0
 Glenrock Apartments,GR,2 Bd/3 Person-Double,Apartment,Male,2025-02-18T09:00:00Z,2
 Glenrock Apartments,GR,2 Bd/3 Person-Double,Apartment,Male,2025-02-18T10:00:00Z,2
 Glenrock Apartments,GR,2 Bd/3 Person-Double,Apartment,Male,2025-02-18T11:00:00Z,0
 Glenrock Apartments,GR,2 Bd/3 Person-Double,Apartment,Male,2025-02-18T12:00:00Z,0
+Glenrock Apartments,GR,2 Bd/3 Person-Double,Apartment,Male,2025-02-18T13:00:00Z,0
+Glenrock Apartments,GR,2 Bd/3 Person-Double,Apartment,Male,2025-02-18T14:00:00Z,0
+Glenrock Apartments,GR,2 Bd/3 Person-Double,Apartment,Male,2025-02-18T15:00:00Z,0
 Glenrock Apartments,GR,2 Bd/4 Person,Apartment,Female,2025-02-18T09:00:00Z,84
 Glenrock Apartments,GR,2 Bd/4 Person,Apartment,Female,2025-02-18T10:00:00Z,74
 Glenrock Apartments,GR,2 Bd/4 Person,Apartment,Female,2025-02-18T11:00:00Z,32
 Glenrock Apartments,GR,2 Bd/4 Person,Apartment,Female,2025-02-18T12:00:00Z,5
+Glenrock Apartments,GR,2 Bd/4 Person,Apartment,Female,2025-02-18T13:00:00Z,4
+Glenrock Apartments,GR,2 Bd/4 Person,Apartment,Female,2025-02-18T14:00:00Z,1
+Glenrock Apartments,GR,2 Bd/4 Person,Apartment,Female,2025-02-18T15:00:00Z,0
 Glenrock Apartments,GR,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,8
 Glenrock Apartments,GR,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,0
 Glenrock Apartments,GR,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,0
 Glenrock Apartments,GR,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,0
+Glenrock Apartments,GR,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,0
+Glenrock Apartments,GR,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,0
+Glenrock Apartments,GR,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,0
 Glenrock Apartments,GR,2 Bd/4 Person,Apartment,Male,2025-02-18T09:00:00Z,52
 Glenrock Apartments,GR,2 Bd/4 Person,Apartment,Male,2025-02-18T10:00:00Z,45
 Glenrock Apartments,GR,2 Bd/4 Person,Apartment,Male,2025-02-18T11:00:00Z,45
 Glenrock Apartments,GR,2 Bd/4 Person,Apartment,Male,2025-02-18T12:00:00Z,34
+Glenrock Apartments,GR,2 Bd/4 Person,Apartment,Male,2025-02-18T13:00:00Z,7
+Glenrock Apartments,GR,2 Bd/4 Person,Apartment,Male,2025-02-18T14:00:00Z,5
+Glenrock Apartments,GR,2 Bd/4 Person,Apartment,Male,2025-02-18T15:00:00Z,5
 Glenrock West Apartments,GW,1 Bd/3 Person,Apartment,Female,2025-02-18T09:00:00Z,9
 Glenrock West Apartments,GW,1 Bd/3 Person,Apartment,Female,2025-02-18T10:00:00Z,6
 Glenrock West Apartments,GW,1 Bd/3 Person,Apartment,Female,2025-02-18T11:00:00Z,9
 Glenrock West Apartments,GW,1 Bd/3 Person,Apartment,Female,2025-02-18T12:00:00Z,0
+Glenrock West Apartments,GW,1 Bd/3 Person,Apartment,Female,2025-02-18T13:00:00Z,0
+Glenrock West Apartments,GW,1 Bd/3 Person,Apartment,Female,2025-02-18T14:00:00Z,0
+Glenrock West Apartments,GW,1 Bd/3 Person,Apartment,Female,2025-02-18T15:00:00Z,0
 Glenrock West Apartments,GW,1 Bd/3 Person,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,3
 Glenrock West Apartments,GW,1 Bd/3 Person,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,1
 Glenrock West Apartments,GW,1 Bd/3 Person,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,1
 Glenrock West Apartments,GW,1 Bd/3 Person,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,0
+Glenrock West Apartments,GW,1 Bd/3 Person,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,0
+Glenrock West Apartments,GW,1 Bd/3 Person,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,0
+Glenrock West Apartments,GW,1 Bd/3 Person,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,0
 Glenrock West Apartments,GW,1 Bd/3 Person,Apartment,Male,2025-02-18T09:00:00Z,9
 Glenrock West Apartments,GW,1 Bd/3 Person,Apartment,Male,2025-02-18T10:00:00Z,6
 Glenrock West Apartments,GW,1 Bd/3 Person,Apartment,Male,2025-02-18T11:00:00Z,6
 Glenrock West Apartments,GW,1 Bd/3 Person,Apartment,Male,2025-02-18T12:00:00Z,6
+Glenrock West Apartments,GW,1 Bd/3 Person,Apartment,Male,2025-02-18T13:00:00Z,6
+Glenrock West Apartments,GW,1 Bd/3 Person,Apartment,Male,2025-02-18T14:00:00Z,3
+Glenrock West Apartments,GW,1 Bd/3 Person,Apartment,Male,2025-02-18T15:00:00Z,0
 Glenrock West Apartments,GW,2 Bd/3 Person-Double,Apartment,Female,2025-02-18T09:00:00Z,6
 Glenrock West Apartments,GW,2 Bd/3 Person-Double,Apartment,Female,2025-02-18T10:00:00Z,6
 Glenrock West Apartments,GW,2 Bd/3 Person-Double,Apartment,Female,2025-02-18T11:00:00Z,4
 Glenrock West Apartments,GW,2 Bd/3 Person-Double,Apartment,Female,2025-02-18T12:00:00Z,1
+Glenrock West Apartments,GW,2 Bd/3 Person-Double,Apartment,Female,2025-02-18T13:00:00Z,0
+Glenrock West Apartments,GW,2 Bd/3 Person-Double,Apartment,Female,2025-02-18T14:00:00Z,0
+Glenrock West Apartments,GW,2 Bd/3 Person-Double,Apartment,Female,2025-02-18T15:00:00Z,0
 Glenrock West Apartments,GW,2 Bd/3 Person-Double,Apartment,Male,2025-02-18T09:00:00Z,2
 Glenrock West Apartments,GW,2 Bd/3 Person-Double,Apartment,Male,2025-02-18T10:00:00Z,2
 Glenrock West Apartments,GW,2 Bd/3 Person-Double,Apartment,Male,2025-02-18T11:00:00Z,2
 Glenrock West Apartments,GW,2 Bd/3 Person-Double,Apartment,Male,2025-02-18T12:00:00Z,2
+Glenrock West Apartments,GW,2 Bd/3 Person-Double,Apartment,Male,2025-02-18T13:00:00Z,1
+Glenrock West Apartments,GW,2 Bd/3 Person-Double,Apartment,Male,2025-02-18T14:00:00Z,1
+Glenrock West Apartments,GW,2 Bd/3 Person-Double,Apartment,Male,2025-02-18T15:00:00Z,0
 Glenrock West Apartments,GW,2 Bd/4 Person,Apartment,Female,2025-02-18T09:00:00Z,48
 Glenrock West Apartments,GW,2 Bd/4 Person,Apartment,Female,2025-02-18T10:00:00Z,37
 Glenrock West Apartments,GW,2 Bd/4 Person,Apartment,Female,2025-02-18T11:00:00Z,13
 Glenrock West Apartments,GW,2 Bd/4 Person,Apartment,Female,2025-02-18T12:00:00Z,0
+Glenrock West Apartments,GW,2 Bd/4 Person,Apartment,Female,2025-02-18T13:00:00Z,1
+Glenrock West Apartments,GW,2 Bd/4 Person,Apartment,Female,2025-02-18T14:00:00Z,0
+Glenrock West Apartments,GW,2 Bd/4 Person,Apartment,Female,2025-02-18T15:00:00Z,0
 Glenrock West Apartments,GW,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,4
 Glenrock West Apartments,GW,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,0
 Glenrock West Apartments,GW,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,0
 Glenrock West Apartments,GW,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,0
+Glenrock West Apartments,GW,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,0
+Glenrock West Apartments,GW,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,0
+Glenrock West Apartments,GW,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,0
 Glenrock West Apartments,GW,2 Bd/4 Person,Apartment,Male,2025-02-18T09:00:00Z,24
 Glenrock West Apartments,GW,2 Bd/4 Person,Apartment,Male,2025-02-18T10:00:00Z,2
 Glenrock West Apartments,GW,2 Bd/4 Person,Apartment,Male,2025-02-18T11:00:00Z,1
 Glenrock West Apartments,GW,2 Bd/4 Person,Apartment,Male,2025-02-18T12:00:00Z,3
-Hedrick Hall,HED,Classic Triple,Dorm,Female,2025-02-18T09:00:00Z,588
-Hedrick Hall,HED,Classic Triple,Dorm,Female,2025-02-18T10:00:00Z,588
-Hedrick Hall,HED,Classic Triple,Dorm,Female,2025-02-18T11:00:00Z,580
-Hedrick Hall,HED,Classic Triple,Dorm,Female,2025-02-18T12:00:00Z,580
-Hedrick Hall,HED,Classic Triple,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,48
-Hedrick Hall,HED,Classic Triple,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,48
-Hedrick Hall,HED,Classic Triple,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,48
-Hedrick Hall,HED,Classic Triple,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,48
-Hedrick Hall,HED,Classic Triple,Dorm,Male,2025-02-18T09:00:00Z,366
-Hedrick Hall,HED,Classic Triple,Dorm,Male,2025-02-18T10:00:00Z,366
-Hedrick Hall,HED,Classic Triple,Dorm,Male,2025-02-18T11:00:00Z,366
-Hedrick Hall,HED,Classic Triple,Dorm,Male,2025-02-18T12:00:00Z,366
-Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T09:00:00Z,414
-Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T10:00:00Z,411
-Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T11:00:00Z,411
-Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T12:00:00Z,411
-Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,30
-Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,30
-Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,30
-Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,30
-Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T09:00:00Z,252
-Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T10:00:00Z,252
-Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T11:00:00Z,252
-Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T12:00:00Z,251
-Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Female,2025-02-18T09:00:00Z,264
-Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Female,2025-02-18T10:00:00Z,264
-Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Female,2025-02-18T11:00:00Z,264
-Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Female,2025-02-18T12:00:00Z,264
-Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,18
-Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,18
-Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,18
-Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,18
-Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Male,2025-02-18T09:00:00Z,168
-Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Male,2025-02-18T10:00:00Z,168
-Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Male,2025-02-18T11:00:00Z,168
-Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Male,2025-02-18T12:00:00Z,168
+Glenrock West Apartments,GW,2 Bd/4 Person,Apartment,Male,2025-02-18T13:00:00Z,0
+Glenrock West Apartments,GW,2 Bd/4 Person,Apartment,Male,2025-02-18T14:00:00Z,0
+Glenrock West Apartments,GW,2 Bd/4 Person,Apartment,Male,2025-02-18T15:00:00Z,0
 Landfair Apartments,LF,2 Bd/4 Person,Apartment,Female,2025-02-18T09:00:00Z,100
 Landfair Apartments,LF,2 Bd/4 Person,Apartment,Female,2025-02-18T10:00:00Z,49
 Landfair Apartments,LF,2 Bd/4 Person,Apartment,Female,2025-02-18T11:00:00Z,10
 Landfair Apartments,LF,2 Bd/4 Person,Apartment,Female,2025-02-18T12:00:00Z,1
+Landfair Apartments,LF,2 Bd/4 Person,Apartment,Female,2025-02-18T13:00:00Z,5
+Landfair Apartments,LF,2 Bd/4 Person,Apartment,Female,2025-02-18T14:00:00Z,0
+Landfair Apartments,LF,2 Bd/4 Person,Apartment,Female,2025-02-18T15:00:00Z,0
 Landfair Apartments,LF,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,8
 Landfair Apartments,LF,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,3
 Landfair Apartments,LF,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,0
 Landfair Apartments,LF,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,0
+Landfair Apartments,LF,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,0
+Landfair Apartments,LF,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,0
+Landfair Apartments,LF,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,0
 Landfair Apartments,LF,2 Bd/4 Person,Apartment,Male,2025-02-18T09:00:00Z,56
 Landfair Apartments,LF,2 Bd/4 Person,Apartment,Male,2025-02-18T10:00:00Z,46
 Landfair Apartments,LF,2 Bd/4 Person,Apartment,Male,2025-02-18T11:00:00Z,20
 Landfair Apartments,LF,2 Bd/4 Person,Apartment,Male,2025-02-18T12:00:00Z,7
+Landfair Apartments,LF,2 Bd/4 Person,Apartment,Male,2025-02-18T13:00:00Z,5
+Landfair Apartments,LF,2 Bd/4 Person,Apartment,Male,2025-02-18T14:00:00Z,5
+Landfair Apartments,LF,2 Bd/4 Person,Apartment,Male,2025-02-18T15:00:00Z,2
 Landfair Vista Apartments,LV,2 Bd/4 Person,Apartment,Female,2025-02-18T09:00:00Z,28
 Landfair Vista Apartments,LV,2 Bd/4 Person,Apartment,Female,2025-02-18T10:00:00Z,3
 Landfair Vista Apartments,LV,2 Bd/4 Person,Apartment,Female,2025-02-18T11:00:00Z,0
 Landfair Vista Apartments,LV,2 Bd/4 Person,Apartment,Female,2025-02-18T12:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd/4 Person,Apartment,Female,2025-02-18T13:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd/4 Person,Apartment,Female,2025-02-18T14:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd/4 Person,Apartment,Female,2025-02-18T15:00:00Z,0
 Landfair Vista Apartments,LV,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,4
 Landfair Vista Apartments,LV,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,4
 Landfair Vista Apartments,LV,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,0
 Landfair Vista Apartments,LV,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,0
 Landfair Vista Apartments,LV,2 Bd/4 Person,Apartment,Male,2025-02-18T09:00:00Z,32
 Landfair Vista Apartments,LV,2 Bd/4 Person,Apartment,Male,2025-02-18T10:00:00Z,3
 Landfair Vista Apartments,LV,2 Bd/4 Person,Apartment,Male,2025-02-18T11:00:00Z,0
 Landfair Vista Apartments,LV,2 Bd/4 Person,Apartment,Male,2025-02-18T12:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd/4 Person,Apartment,Male,2025-02-18T13:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd/4 Person,Apartment,Male,2025-02-18T14:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd/4 Person,Apartment,Male,2025-02-18T15:00:00Z,0
 Landfair Vista Apartments,LV,2 Bd/5 Person-Double,Apartment,Female,2025-02-18T09:00:00Z,4
 Landfair Vista Apartments,LV,2 Bd/5 Person-Double,Apartment,Female,2025-02-18T10:00:00Z,4
 Landfair Vista Apartments,LV,2 Bd/5 Person-Double,Apartment,Female,2025-02-18T11:00:00Z,0
 Landfair Vista Apartments,LV,2 Bd/5 Person-Double,Apartment,Female,2025-02-18T12:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd/5 Person-Double,Apartment,Female,2025-02-18T13:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd/5 Person-Double,Apartment,Female,2025-02-18T14:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd/5 Person-Double,Apartment,Female,2025-02-18T15:00:00Z,0
 Landfair Vista Apartments,LV,2 Bd/5 Person-Double,Apartment,Male,2025-02-18T09:00:00Z,4
 Landfair Vista Apartments,LV,2 Bd/5 Person-Double,Apartment,Male,2025-02-18T10:00:00Z,4
 Landfair Vista Apartments,LV,2 Bd/5 Person-Double,Apartment,Male,2025-02-18T11:00:00Z,0
 Landfair Vista Apartments,LV,2 Bd/5 Person-Double,Apartment,Male,2025-02-18T12:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd/5 Person-Double,Apartment,Male,2025-02-18T13:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd/5 Person-Double,Apartment,Male,2025-02-18T14:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd/5 Person-Double,Apartment,Male,2025-02-18T15:00:00Z,0
 Landfair Vista Apartments,LV,2 Bd/5 Person-Triple,Apartment,Female,2025-02-18T09:00:00Z,6
 Landfair Vista Apartments,LV,2 Bd/5 Person-Triple,Apartment,Female,2025-02-18T10:00:00Z,6
 Landfair Vista Apartments,LV,2 Bd/5 Person-Triple,Apartment,Female,2025-02-18T11:00:00Z,6
 Landfair Vista Apartments,LV,2 Bd/5 Person-Triple,Apartment,Female,2025-02-18T12:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd/5 Person-Triple,Apartment,Female,2025-02-18T13:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd/5 Person-Triple,Apartment,Female,2025-02-18T14:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd/5 Person-Triple,Apartment,Female,2025-02-18T15:00:00Z,0
 Landfair Vista Apartments,LV,2 Bd/5 Person-Triple,Apartment,Male,2025-02-18T09:00:00Z,6
 Landfair Vista Apartments,LV,2 Bd/5 Person-Triple,Apartment,Male,2025-02-18T10:00:00Z,6
 Landfair Vista Apartments,LV,2 Bd/5 Person-Triple,Apartment,Male,2025-02-18T11:00:00Z,0
 Landfair Vista Apartments,LV,2 Bd/5 Person-Triple,Apartment,Male,2025-02-18T12:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd/5 Person-Triple,Apartment,Male,2025-02-18T13:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd/5 Person-Triple,Apartment,Male,2025-02-18T14:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd/5 Person-Triple,Apartment,Male,2025-02-18T15:00:00Z,0
 Landfair Vista Apartments,LV,2 Bd+Loft/5 Person-Double,Apartment,Female,2025-02-18T09:00:00Z,4
 Landfair Vista Apartments,LV,2 Bd+Loft/5 Person-Double,Apartment,Female,2025-02-18T10:00:00Z,4
 Landfair Vista Apartments,LV,2 Bd+Loft/5 Person-Double,Apartment,Female,2025-02-18T11:00:00Z,2
 Landfair Vista Apartments,LV,2 Bd+Loft/5 Person-Double,Apartment,Female,2025-02-18T12:00:00Z,1
+Landfair Vista Apartments,LV,2 Bd+Loft/5 Person-Double,Apartment,Female,2025-02-18T13:00:00Z,1
+Landfair Vista Apartments,LV,2 Bd+Loft/5 Person-Double,Apartment,Female,2025-02-18T14:00:00Z,1
+Landfair Vista Apartments,LV,2 Bd+Loft/5 Person-Double,Apartment,Female,2025-02-18T15:00:00Z,0
 Landfair Vista Apartments,LV,2 Bd+Loft/6 Person,Apartment,Female,2025-02-18T09:00:00Z,6
 Landfair Vista Apartments,LV,2 Bd+Loft/6 Person,Apartment,Female,2025-02-18T10:00:00Z,0
 Landfair Vista Apartments,LV,2 Bd+Loft/6 Person,Apartment,Female,2025-02-18T11:00:00Z,0
 Landfair Vista Apartments,LV,2 Bd+Loft/6 Person,Apartment,Female,2025-02-18T12:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd+Loft/6 Person,Apartment,Female,2025-02-18T13:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd+Loft/6 Person,Apartment,Female,2025-02-18T14:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd+Loft/6 Person,Apartment,Female,2025-02-18T15:00:00Z,0
 Landfair Vista Apartments,LV,2 Bd+Loft/6 Person,Apartment,Male,2025-02-18T09:00:00Z,6
 Landfair Vista Apartments,LV,2 Bd+Loft/6 Person,Apartment,Male,2025-02-18T10:00:00Z,0
 Landfair Vista Apartments,LV,2 Bd+Loft/6 Person,Apartment,Male,2025-02-18T11:00:00Z,0
 Landfair Vista Apartments,LV,2 Bd+Loft/6 Person,Apartment,Male,2025-02-18T12:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd+Loft/6 Person,Apartment,Male,2025-02-18T13:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd+Loft/6 Person,Apartment,Male,2025-02-18T14:00:00Z,0
+Landfair Vista Apartments,LV,2 Bd+Loft/6 Person,Apartment,Male,2025-02-18T15:00:00Z,0
 Landfair Vista Apartments,LV,3 Bd/6 Person,Apartment,Female,2025-02-18T09:00:00Z,24
 Landfair Vista Apartments,LV,3 Bd/6 Person,Apartment,Female,2025-02-18T10:00:00Z,17
 Landfair Vista Apartments,LV,3 Bd/6 Person,Apartment,Female,2025-02-18T11:00:00Z,2
 Landfair Vista Apartments,LV,3 Bd/6 Person,Apartment,Female,2025-02-18T12:00:00Z,0
+Landfair Vista Apartments,LV,3 Bd/6 Person,Apartment,Female,2025-02-18T13:00:00Z,0
+Landfair Vista Apartments,LV,3 Bd/6 Person,Apartment,Female,2025-02-18T14:00:00Z,0
+Landfair Vista Apartments,LV,3 Bd/6 Person,Apartment,Female,2025-02-18T15:00:00Z,0
 Landfair Vista Apartments,LV,3 Bd/6 Person,Apartment,Male,2025-02-18T09:00:00Z,12
 Landfair Vista Apartments,LV,3 Bd/6 Person,Apartment,Male,2025-02-18T10:00:00Z,0
 Landfair Vista Apartments,LV,3 Bd/6 Person,Apartment,Male,2025-02-18T11:00:00Z,0
 Landfair Vista Apartments,LV,3 Bd/6 Person,Apartment,Male,2025-02-18T12:00:00Z,0
+Landfair Vista Apartments,LV,3 Bd/6 Person,Apartment,Male,2025-02-18T13:00:00Z,0
+Landfair Vista Apartments,LV,3 Bd/6 Person,Apartment,Male,2025-02-18T14:00:00Z,0
+Landfair Vista Apartments,LV,3 Bd/6 Person,Apartment,Male,2025-02-18T15:00:00Z,0
 Landfair Vista Apartments,LV,3 Bd+Loft/9 Person-Double,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,2
 Landfair Vista Apartments,LV,3 Bd+Loft/9 Person-Double,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,2
 Landfair Vista Apartments,LV,3 Bd+Loft/9 Person-Double,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,2
 Landfair Vista Apartments,LV,3 Bd+Loft/9 Person-Double,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,0
+Landfair Vista Apartments,LV,3 Bd+Loft/9 Person-Double,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,0
+Landfair Vista Apartments,LV,3 Bd+Loft/9 Person-Double,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,0
+Landfair Vista Apartments,LV,3 Bd+Loft/9 Person-Double,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,0
 Landfair Vista Apartments,LV,3 Bd+Loft/9 Person-Triple,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,6
 Landfair Vista Apartments,LV,3 Bd+Loft/9 Person-Triple,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,6
 Landfair Vista Apartments,LV,3 Bd+Loft/9 Person-Triple,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,6
 Landfair Vista Apartments,LV,3 Bd+Loft/9 Person-Triple,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,4
+Landfair Vista Apartments,LV,3 Bd+Loft/9 Person-Triple,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,0
+Landfair Vista Apartments,LV,3 Bd+Loft/9 Person-Triple,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,0
+Landfair Vista Apartments,LV,3 Bd+Loft/9 Person-Triple,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,0
 Laurel,LA,2 Bd/4 Person,Apartment,Female,2025-02-18T09:00:00Z,40
 Laurel,LA,2 Bd/4 Person,Apartment,Female,2025-02-18T10:00:00Z,36
 Laurel,LA,2 Bd/4 Person,Apartment,Female,2025-02-18T11:00:00Z,36
 Laurel,LA,2 Bd/4 Person,Apartment,Female,2025-02-18T12:00:00Z,25
+Laurel,LA,2 Bd/4 Person,Apartment,Female,2025-02-18T13:00:00Z,2
+Laurel,LA,2 Bd/4 Person,Apartment,Female,2025-02-18T14:00:00Z,1
+Laurel,LA,2 Bd/4 Person,Apartment,Female,2025-02-18T15:00:00Z,0
 Laurel,LA,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,4
 Laurel,LA,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,4
 Laurel,LA,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,0
 Laurel,LA,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,0
+Laurel,LA,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,0
+Laurel,LA,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,0
+Laurel,LA,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,0
 Laurel,LA,2 Bd/4 Person,Apartment,Male,2025-02-18T09:00:00Z,12
 Laurel,LA,2 Bd/4 Person,Apartment,Male,2025-02-18T10:00:00Z,4
 Laurel,LA,2 Bd/4 Person,Apartment,Male,2025-02-18T11:00:00Z,4
 Laurel,LA,2 Bd/4 Person,Apartment,Male,2025-02-18T12:00:00Z,3
+Laurel,LA,2 Bd/4 Person,Apartment,Male,2025-02-18T13:00:00Z,3
+Laurel,LA,2 Bd/4 Person,Apartment,Male,2025-02-18T14:00:00Z,2
+Laurel,LA,2 Bd/4 Person,Apartment,Male,2025-02-18T15:00:00Z,1
 Laurel,LA,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T09:00:00Z,172
 Laurel,LA,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T10:00:00Z,172
 Laurel,LA,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T11:00:00Z,172
 Laurel,LA,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T12:00:00Z,172
+Laurel,LA,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T13:00:00Z,172
+Laurel,LA,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T14:00:00Z,166
+Laurel,LA,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T15:00:00Z,165
 Laurel,LA,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,12
 Laurel,LA,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,12
 Laurel,LA,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,12
 Laurel,LA,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,10
+Laurel,LA,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,0
+Laurel,LA,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,0
+Laurel,LA,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,0
 Laurel,LA,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T09:00:00Z,100
 Laurel,LA,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T10:00:00Z,100
 Laurel,LA,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T11:00:00Z,100
 Laurel,LA,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T12:00:00Z,100
+Laurel,LA,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T13:00:00Z,100
+Laurel,LA,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T14:00:00Z,98
+Laurel,LA,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T15:00:00Z,98
 Laurel,LA,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T09:00:00Z,258
 Laurel,LA,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T10:00:00Z,258
 Laurel,LA,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T11:00:00Z,258
 Laurel,LA,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T12:00:00Z,258
+Laurel,LA,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T13:00:00Z,258
+Laurel,LA,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T14:00:00Z,258
+Laurel,LA,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T15:00:00Z,258
 Laurel,LA,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,18
 Laurel,LA,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,18
 Laurel,LA,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,18
 Laurel,LA,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,12
+Laurel,LA,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,0
+Laurel,LA,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,0
+Laurel,LA,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,0
 Laurel,LA,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T09:00:00Z,150
 Laurel,LA,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T10:00:00Z,150
 Laurel,LA,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T11:00:00Z,150
 Laurel,LA,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T12:00:00Z,150
+Laurel,LA,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T13:00:00Z,150
+Laurel,LA,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T14:00:00Z,150
+Laurel,LA,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T15:00:00Z,149
 Levering Terrace Apartments,LT,1 Bd/3 Person,Apartment,Female,2025-02-18T09:00:00Z,12
 Levering Terrace Apartments,LT,1 Bd/3 Person,Apartment,Female,2025-02-18T10:00:00Z,3
 Levering Terrace Apartments,LT,1 Bd/3 Person,Apartment,Female,2025-02-18T11:00:00Z,1
 Levering Terrace Apartments,LT,1 Bd/3 Person,Apartment,Female,2025-02-18T12:00:00Z,1
+Levering Terrace Apartments,LT,1 Bd/3 Person,Apartment,Female,2025-02-18T13:00:00Z,1
+Levering Terrace Apartments,LT,1 Bd/3 Person,Apartment,Female,2025-02-18T14:00:00Z,1
+Levering Terrace Apartments,LT,1 Bd/3 Person,Apartment,Female,2025-02-18T15:00:00Z,0
 Levering Terrace Apartments,LT,1 Bd/3 Person,Apartment,Male,2025-02-18T09:00:00Z,9
 Levering Terrace Apartments,LT,1 Bd/3 Person,Apartment,Male,2025-02-18T10:00:00Z,0
 Levering Terrace Apartments,LT,1 Bd/3 Person,Apartment,Male,2025-02-18T11:00:00Z,0
 Levering Terrace Apartments,LT,1 Bd/3 Person,Apartment,Male,2025-02-18T12:00:00Z,0
+Levering Terrace Apartments,LT,1 Bd/3 Person,Apartment,Male,2025-02-18T13:00:00Z,0
+Levering Terrace Apartments,LT,1 Bd/3 Person,Apartment,Male,2025-02-18T14:00:00Z,0
+Levering Terrace Apartments,LT,1 Bd/3 Person,Apartment,Male,2025-02-18T15:00:00Z,0
 Levering Terrace Apartments,LT,2 Bd/7 Person-Quad,Apartment,Female,2025-02-18T09:00:00Z,20
 Levering Terrace Apartments,LT,2 Bd/7 Person-Quad,Apartment,Female,2025-02-18T10:00:00Z,20
 Levering Terrace Apartments,LT,2 Bd/7 Person-Quad,Apartment,Female,2025-02-18T11:00:00Z,20
 Levering Terrace Apartments,LT,2 Bd/7 Person-Quad,Apartment,Female,2025-02-18T12:00:00Z,20
+Levering Terrace Apartments,LT,2 Bd/7 Person-Quad,Apartment,Female,2025-02-18T13:00:00Z,20
+Levering Terrace Apartments,LT,2 Bd/7 Person-Quad,Apartment,Female,2025-02-18T14:00:00Z,20
+Levering Terrace Apartments,LT,2 Bd/7 Person-Quad,Apartment,Female,2025-02-18T15:00:00Z,9
 Levering Terrace Apartments,LT,2 Bd/7 Person-Quad,Apartment,Male,2025-02-18T09:00:00Z,12
 Levering Terrace Apartments,LT,2 Bd/7 Person-Quad,Apartment,Male,2025-02-18T10:00:00Z,12
 Levering Terrace Apartments,LT,2 Bd/7 Person-Quad,Apartment,Male,2025-02-18T11:00:00Z,12
 Levering Terrace Apartments,LT,2 Bd/7 Person-Quad,Apartment,Male,2025-02-18T12:00:00Z,12
+Levering Terrace Apartments,LT,2 Bd/7 Person-Quad,Apartment,Male,2025-02-18T13:00:00Z,12
+Levering Terrace Apartments,LT,2 Bd/7 Person-Quad,Apartment,Male,2025-02-18T14:00:00Z,12
+Levering Terrace Apartments,LT,2 Bd/7 Person-Quad,Apartment,Male,2025-02-18T15:00:00Z,12
 Levering Terrace Apartments,LT,2 Bd/7 Person-Triple,Apartment,Female,2025-02-18T09:00:00Z,15
 Levering Terrace Apartments,LT,2 Bd/7 Person-Triple,Apartment,Female,2025-02-18T10:00:00Z,15
 Levering Terrace Apartments,LT,2 Bd/7 Person-Triple,Apartment,Female,2025-02-18T11:00:00Z,15
 Levering Terrace Apartments,LT,2 Bd/7 Person-Triple,Apartment,Female,2025-02-18T12:00:00Z,15
+Levering Terrace Apartments,LT,2 Bd/7 Person-Triple,Apartment,Female,2025-02-18T13:00:00Z,15
+Levering Terrace Apartments,LT,2 Bd/7 Person-Triple,Apartment,Female,2025-02-18T14:00:00Z,15
+Levering Terrace Apartments,LT,2 Bd/7 Person-Triple,Apartment,Female,2025-02-18T15:00:00Z,3
 Levering Terrace Apartments,LT,2 Bd/7 Person-Triple,Apartment,Male,2025-02-18T09:00:00Z,9
 Levering Terrace Apartments,LT,2 Bd/7 Person-Triple,Apartment,Male,2025-02-18T10:00:00Z,9
 Levering Terrace Apartments,LT,2 Bd/7 Person-Triple,Apartment,Male,2025-02-18T11:00:00Z,9
 Levering Terrace Apartments,LT,2 Bd/7 Person-Triple,Apartment,Male,2025-02-18T12:00:00Z,9
+Levering Terrace Apartments,LT,2 Bd/7 Person-Triple,Apartment,Male,2025-02-18T13:00:00Z,9
+Levering Terrace Apartments,LT,2 Bd/7 Person-Triple,Apartment,Male,2025-02-18T14:00:00Z,9
+Levering Terrace Apartments,LT,2 Bd/7 Person-Triple,Apartment,Male,2025-02-18T15:00:00Z,9
 Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Female,2025-02-18T09:00:00Z,120
 Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Female,2025-02-18T10:00:00Z,120
 Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Female,2025-02-18T11:00:00Z,120
 Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Female,2025-02-18T12:00:00Z,120
+Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Female,2025-02-18T13:00:00Z,120
+Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Female,2025-02-18T14:00:00Z,120
+Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Female,2025-02-18T15:00:00Z,120
 Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,8
 Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,8
 Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,8
 Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,0
+Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,0
+Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,0
+Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,0
 Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Male,2025-02-18T09:00:00Z,64
 Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Male,2025-02-18T10:00:00Z,64
 Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Male,2025-02-18T11:00:00Z,64
 Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Male,2025-02-18T12:00:00Z,64
-Olympic / Centennial,OC,Deluxe Triple,Dorm,Female,2025-02-18T09:00:00Z,999
-Olympic / Centennial,OC,Deluxe Triple,Dorm,Female,2025-02-18T10:00:00Z,993
-Olympic / Centennial,OC,Deluxe Triple,Dorm,Female,2025-02-18T11:00:00Z,980
-Olympic / Centennial,OC,Deluxe Triple,Dorm,Female,2025-02-18T12:00:00Z,967
-Olympic / Centennial,OC,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,81
-Olympic / Centennial,OC,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,81
-Olympic / Centennial,OC,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,80
-Olympic / Centennial,OC,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,71
-Olympic / Centennial,OC,Deluxe Triple,Dorm,Male,2025-02-18T09:00:00Z,594
-Olympic / Centennial,OC,Deluxe Triple,Dorm,Male,2025-02-18T10:00:00Z,582
-Olympic / Centennial,OC,Deluxe Triple,Dorm,Male,2025-02-18T11:00:00Z,571
-Olympic / Centennial,OC,Deluxe Triple,Dorm,Male,2025-02-18T12:00:00Z,549
+Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Male,2025-02-18T13:00:00Z,64
+Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Male,2025-02-18T14:00:00Z,64
+Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Male,2025-02-18T15:00:00Z,59
 Palo Verde,PV,2 Bd/4 Person,Apartment,Female,2025-02-18T09:00:00Z,8
 Palo Verde,PV,2 Bd/4 Person,Apartment,Female,2025-02-18T10:00:00Z,8
 Palo Verde,PV,2 Bd/4 Person,Apartment,Female,2025-02-18T11:00:00Z,6
 Palo Verde,PV,2 Bd/4 Person,Apartment,Female,2025-02-18T12:00:00Z,6
+Palo Verde,PV,2 Bd/4 Person,Apartment,Female,2025-02-18T13:00:00Z,3
+Palo Verde,PV,2 Bd/4 Person,Apartment,Female,2025-02-18T14:00:00Z,1
+Palo Verde,PV,2 Bd/4 Person,Apartment,Female,2025-02-18T15:00:00Z,0
 Palo Verde,PV,2 Bd/4 Person,Apartment,Male,2025-02-18T09:00:00Z,4
 Palo Verde,PV,2 Bd/4 Person,Apartment,Male,2025-02-18T10:00:00Z,4
 Palo Verde,PV,2 Bd/4 Person,Apartment,Male,2025-02-18T11:00:00Z,4
 Palo Verde,PV,2 Bd/4 Person,Apartment,Male,2025-02-18T12:00:00Z,0
+Palo Verde,PV,2 Bd/4 Person,Apartment,Male,2025-02-18T13:00:00Z,0
+Palo Verde,PV,2 Bd/4 Person,Apartment,Male,2025-02-18T14:00:00Z,0
+Palo Verde,PV,2 Bd/4 Person,Apartment,Male,2025-02-18T15:00:00Z,0
 Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T09:00:00Z,96
 Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T10:00:00Z,96
 Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T11:00:00Z,96
 Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T12:00:00Z,96
+Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T13:00:00Z,96
+Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T14:00:00Z,96
+Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T15:00:00Z,87
 Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,12
 Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,12
 Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,12
 Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,8
+Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,1
+Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,0
+Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,0
 Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T09:00:00Z,56
 Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T10:00:00Z,56
 Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T11:00:00Z,56
 Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T12:00:00Z,56
+Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T13:00:00Z,56
+Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T14:00:00Z,56
+Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T15:00:00Z,52
 Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T09:00:00Z,144
 Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T10:00:00Z,144
 Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T11:00:00Z,144
 Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T12:00:00Z,144
+Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T13:00:00Z,144
+Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T14:00:00Z,144
+Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T15:00:00Z,142
 Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,18
 Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,18
 Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,18
 Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,18
+Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,18
+Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,1
+Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,1
 Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T09:00:00Z,84
 Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T10:00:00Z,84
 Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T11:00:00Z,84
 Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T12:00:00Z,84
-Rieber Hall,RIE,Classic Triple,Dorm,Female,2025-02-18T09:00:00Z,567
-Rieber Hall,RIE,Classic Triple,Dorm,Female,2025-02-18T10:00:00Z,564
-Rieber Hall,RIE,Classic Triple,Dorm,Female,2025-02-18T11:00:00Z,564
-Rieber Hall,RIE,Classic Triple,Dorm,Female,2025-02-18T12:00:00Z,559
-Rieber Hall,RIE,Classic Triple,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,48
-Rieber Hall,RIE,Classic Triple,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,48
-Rieber Hall,RIE,Classic Triple,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,48
-Rieber Hall,RIE,Classic Triple,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,48
-Rieber Hall,RIE,Classic Triple,Dorm,Male,2025-02-18T09:00:00Z,381
-Rieber Hall,RIE,Classic Triple,Dorm,Male,2025-02-18T10:00:00Z,381
-Rieber Hall,RIE,Classic Triple,Dorm,Male,2025-02-18T11:00:00Z,381
-Rieber Hall,RIE,Classic Triple,Dorm,Male,2025-02-18T12:00:00Z,380
-Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T09:00:00Z,21
-Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T10:00:00Z,15
-Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T11:00:00Z,15
-Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T12:00:00Z,12
-Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T09:00:00Z,15
-Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T10:00:00Z,13
-Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T11:00:00Z,13
-Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T12:00:00Z,7
-Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T09:00:00Z,438
-Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T10:00:00Z,434
-Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T11:00:00Z,432
-Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T12:00:00Z,429
-Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,36
-Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,36
-Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,36
-Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,36
-Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T09:00:00Z,270
-Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T10:00:00Z,267
-Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T11:00:00Z,267
-Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T12:00:00Z,265
-Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T09:00:00Z,3
-Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T10:00:00Z,0
-Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T11:00:00Z,0
-Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T12:00:00Z,0
-Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T09:00:00Z,3
-Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T10:00:00Z,3
-Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T11:00:00Z,0
-Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T12:00:00Z,0
-Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T09:00:00Z,408
-Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T10:00:00Z,408
-Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T11:00:00Z,397
-Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T12:00:00Z,390
-Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,30
-Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,30
-Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,30
-Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,30
-Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T09:00:00Z,252
-Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T10:00:00Z,252
-Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T11:00:00Z,252
-Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T12:00:00Z,252
-Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Female,2025-02-18T09:00:00Z,258
-Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Female,2025-02-18T10:00:00Z,249
-Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Female,2025-02-18T11:00:00Z,241
-Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Female,2025-02-18T12:00:00Z,238
-Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,18
-Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,18
-Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,18
-Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,18
-Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Male,2025-02-18T09:00:00Z,150
-Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Male,2025-02-18T10:00:00Z,138
-Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Male,2025-02-18T11:00:00Z,119
-Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Male,2025-02-18T12:00:00Z,113
-Sproul Hall,SPR,Classic Triple,Dorm,Female,2025-02-18T09:00:00Z,579
-Sproul Hall,SPR,Classic Triple,Dorm,Female,2025-02-18T10:00:00Z,571
-Sproul Hall,SPR,Classic Triple,Dorm,Female,2025-02-18T11:00:00Z,563
-Sproul Hall,SPR,Classic Triple,Dorm,Female,2025-02-18T12:00:00Z,554
-Sproul Hall,SPR,Classic Triple,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,51
-Sproul Hall,SPR,Classic Triple,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,51
-Sproul Hall,SPR,Classic Triple,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,51
-Sproul Hall,SPR,Classic Triple,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,51
-Sproul Hall,SPR,Classic Triple,Dorm,Male,2025-02-18T09:00:00Z,369
-Sproul Hall,SPR,Classic Triple,Dorm,Male,2025-02-18T10:00:00Z,360
-Sproul Hall,SPR,Classic Triple,Dorm,Male,2025-02-18T11:00:00Z,359
-Sproul Hall,SPR,Classic Triple,Dorm,Male,2025-02-18T12:00:00Z,356
-Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Female,2025-02-18T09:00:00Z,597
-Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Female,2025-02-18T10:00:00Z,569
-Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Female,2025-02-18T11:00:00Z,547
-Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Female,2025-02-18T12:00:00Z,510
-Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,45
-Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,40
-Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,37
-Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,37
-Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Male,2025-02-18T09:00:00Z,363
-Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Male,2025-02-18T10:00:00Z,348
-Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Male,2025-02-18T11:00:00Z,331
-Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Male,2025-02-18T12:00:00Z,314
-Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T09:00:00Z,507
-Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T10:00:00Z,504
-Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T11:00:00Z,501
-Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T12:00:00Z,492
-Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,39
-Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,39
-Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,39
-Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,39
-Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T09:00:00Z,309
-Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T10:00:00Z,306
-Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T11:00:00Z,302
-Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T12:00:00Z,294
-Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T09:00:00Z,456
-Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T10:00:00Z,456
-Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T11:00:00Z,456
-Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T12:00:00Z,456
-Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,36
-Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,36
-Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,36
-Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,36
-Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T09:00:00Z,282
-Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T10:00:00Z,282
-Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T11:00:00Z,282
-Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T12:00:00Z,282
+Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T13:00:00Z,84
+Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T14:00:00Z,84
+Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T15:00:00Z,80
 Tipuana,TN,2 Bd/4 Person,Apartment,Female,2025-02-18T09:00:00Z,60
 Tipuana,TN,2 Bd/4 Person,Apartment,Female,2025-02-18T10:00:00Z,56
 Tipuana,TN,2 Bd/4 Person,Apartment,Female,2025-02-18T11:00:00Z,50
 Tipuana,TN,2 Bd/4 Person,Apartment,Female,2025-02-18T12:00:00Z,22
+Tipuana,TN,2 Bd/4 Person,Apartment,Female,2025-02-18T13:00:00Z,4
+Tipuana,TN,2 Bd/4 Person,Apartment,Female,2025-02-18T14:00:00Z,1
+Tipuana,TN,2 Bd/4 Person,Apartment,Female,2025-02-18T15:00:00Z,0
 Tipuana,TN,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,4
 Tipuana,TN,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,4
 Tipuana,TN,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,0
 Tipuana,TN,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,0
+Tipuana,TN,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,0
+Tipuana,TN,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,0
+Tipuana,TN,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,0
 Tipuana,TN,2 Bd/4 Person,Apartment,Male,2025-02-18T09:00:00Z,32
 Tipuana,TN,2 Bd/4 Person,Apartment,Male,2025-02-18T10:00:00Z,28
 Tipuana,TN,2 Bd/4 Person,Apartment,Male,2025-02-18T11:00:00Z,31
 Tipuana,TN,2 Bd/4 Person,Apartment,Male,2025-02-18T12:00:00Z,24
+Tipuana,TN,2 Bd/4 Person,Apartment,Male,2025-02-18T13:00:00Z,16
+Tipuana,TN,2 Bd/4 Person,Apartment,Male,2025-02-18T14:00:00Z,3
+Tipuana,TN,2 Bd/4 Person,Apartment,Male,2025-02-18T15:00:00Z,1
 Tipuana,TN,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T09:00:00Z,196
 Tipuana,TN,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T10:00:00Z,196
 Tipuana,TN,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T11:00:00Z,196
 Tipuana,TN,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T12:00:00Z,196
+Tipuana,TN,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T13:00:00Z,192
+Tipuana,TN,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T14:00:00Z,186
+Tipuana,TN,4 Bd/10 Person-Double,Apartment,Female,2025-02-18T15:00:00Z,168
 Tipuana,TN,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,16
 Tipuana,TN,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,16
 Tipuana,TN,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,16
 Tipuana,TN,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,8
+Tipuana,TN,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,0
+Tipuana,TN,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,0
+Tipuana,TN,4 Bd/10 Person-Double,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,0
 Tipuana,TN,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T09:00:00Z,120
 Tipuana,TN,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T10:00:00Z,120
 Tipuana,TN,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T11:00:00Z,120
 Tipuana,TN,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T12:00:00Z,120
+Tipuana,TN,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T13:00:00Z,120
+Tipuana,TN,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T14:00:00Z,120
+Tipuana,TN,4 Bd/10 Person-Double,Apartment,Male,2025-02-18T15:00:00Z,119
 Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T09:00:00Z,294
 Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T10:00:00Z,294
 Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T11:00:00Z,294
 Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T12:00:00Z,294
+Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T13:00:00Z,294
+Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T14:00:00Z,294
+Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Female,2025-02-18T15:00:00Z,291
 Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,24
 Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,24
 Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,24
 Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,22
+Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,8
+Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,2
+Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,2
 Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T09:00:00Z,180
 Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T10:00:00Z,180
 Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T11:00:00Z,180
 Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T12:00:00Z,180
+Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T13:00:00Z,180
+Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T14:00:00Z,180
+Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Male,2025-02-18T15:00:00Z,180
 Westwood Chateau Apartments,WC,1 Bd/3 Person,Apartment,Female,2025-02-18T09:00:00Z,36
 Westwood Chateau Apartments,WC,1 Bd/3 Person,Apartment,Female,2025-02-18T10:00:00Z,33
 Westwood Chateau Apartments,WC,1 Bd/3 Person,Apartment,Female,2025-02-18T11:00:00Z,33
 Westwood Chateau Apartments,WC,1 Bd/3 Person,Apartment,Female,2025-02-18T12:00:00Z,31
+Westwood Chateau Apartments,WC,1 Bd/3 Person,Apartment,Female,2025-02-18T13:00:00Z,22
+Westwood Chateau Apartments,WC,1 Bd/3 Person,Apartment,Female,2025-02-18T14:00:00Z,0
+Westwood Chateau Apartments,WC,1 Bd/3 Person,Apartment,Female,2025-02-18T15:00:00Z,0
 Westwood Chateau Apartments,WC,1 Bd/3 Person,Apartment,Male,2025-02-18T09:00:00Z,18
 Westwood Chateau Apartments,WC,1 Bd/3 Person,Apartment,Male,2025-02-18T10:00:00Z,18
 Westwood Chateau Apartments,WC,1 Bd/3 Person,Apartment,Male,2025-02-18T11:00:00Z,18
 Westwood Chateau Apartments,WC,1 Bd/3 Person,Apartment,Male,2025-02-18T12:00:00Z,18
+Westwood Chateau Apartments,WC,1 Bd/3 Person,Apartment,Male,2025-02-18T13:00:00Z,12
+Westwood Chateau Apartments,WC,1 Bd/3 Person,Apartment,Male,2025-02-18T14:00:00Z,3
+Westwood Chateau Apartments,WC,1 Bd/3 Person,Apartment,Male,2025-02-18T15:00:00Z,0
 Westwood Chateau Apartments,WC,2 Bd/4 Person,Apartment,Female,2025-02-18T09:00:00Z,112
 Westwood Chateau Apartments,WC,2 Bd/4 Person,Apartment,Female,2025-02-18T10:00:00Z,108
 Westwood Chateau Apartments,WC,2 Bd/4 Person,Apartment,Female,2025-02-18T11:00:00Z,96
 Westwood Chateau Apartments,WC,2 Bd/4 Person,Apartment,Female,2025-02-18T12:00:00Z,74
+Westwood Chateau Apartments,WC,2 Bd/4 Person,Apartment,Female,2025-02-18T13:00:00Z,11
+Westwood Chateau Apartments,WC,2 Bd/4 Person,Apartment,Female,2025-02-18T14:00:00Z,0
+Westwood Chateau Apartments,WC,2 Bd/4 Person,Apartment,Female,2025-02-18T15:00:00Z,0
 Westwood Chateau Apartments,WC,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,8
 Westwood Chateau Apartments,WC,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,1
 Westwood Chateau Apartments,WC,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,1
 Westwood Chateau Apartments,WC,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,1
+Westwood Chateau Apartments,WC,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,1
+Westwood Chateau Apartments,WC,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,1
+Westwood Chateau Apartments,WC,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,1
 Westwood Chateau Apartments,WC,2 Bd/4 Person,Apartment,Male,2025-02-18T09:00:00Z,72
 Westwood Chateau Apartments,WC,2 Bd/4 Person,Apartment,Male,2025-02-18T10:00:00Z,72
 Westwood Chateau Apartments,WC,2 Bd/4 Person,Apartment,Male,2025-02-18T11:00:00Z,65
 Westwood Chateau Apartments,WC,2 Bd/4 Person,Apartment,Male,2025-02-18T12:00:00Z,51
+Westwood Chateau Apartments,WC,2 Bd/4 Person,Apartment,Male,2025-02-18T13:00:00Z,40
+Westwood Chateau Apartments,WC,2 Bd/4 Person,Apartment,Male,2025-02-18T14:00:00Z,18
+Westwood Chateau Apartments,WC,2 Bd/4 Person,Apartment,Male,2025-02-18T15:00:00Z,7
 Westwood Palms Apartments,WP,1 Bd/3 Person,Apartment,Female,2025-02-18T09:00:00Z,3
 Westwood Palms Apartments,WP,1 Bd/3 Person,Apartment,Female,2025-02-18T10:00:00Z,3
 Westwood Palms Apartments,WP,1 Bd/3 Person,Apartment,Female,2025-02-18T11:00:00Z,3
 Westwood Palms Apartments,WP,1 Bd/3 Person,Apartment,Female,2025-02-18T12:00:00Z,3
+Westwood Palms Apartments,WP,1 Bd/3 Person,Apartment,Female,2025-02-18T13:00:00Z,0
+Westwood Palms Apartments,WP,1 Bd/3 Person,Apartment,Female,2025-02-18T14:00:00Z,0
+Westwood Palms Apartments,WP,1 Bd/3 Person,Apartment,Female,2025-02-18T15:00:00Z,0
 Westwood Palms Apartments,WP,2 Bd/3 Person-Double,Apartment,Female,2025-02-18T09:00:00Z,20
 Westwood Palms Apartments,WP,2 Bd/3 Person-Double,Apartment,Female,2025-02-18T10:00:00Z,17
 Westwood Palms Apartments,WP,2 Bd/3 Person-Double,Apartment,Female,2025-02-18T11:00:00Z,15
 Westwood Palms Apartments,WP,2 Bd/3 Person-Double,Apartment,Female,2025-02-18T12:00:00Z,15
+Westwood Palms Apartments,WP,2 Bd/3 Person-Double,Apartment,Female,2025-02-18T13:00:00Z,9
+Westwood Palms Apartments,WP,2 Bd/3 Person-Double,Apartment,Female,2025-02-18T14:00:00Z,0
+Westwood Palms Apartments,WP,2 Bd/3 Person-Double,Apartment,Female,2025-02-18T15:00:00Z,0
 Westwood Palms Apartments,WP,2 Bd/3 Person-Double,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,2
 Westwood Palms Apartments,WP,2 Bd/3 Person-Double,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,0
 Westwood Palms Apartments,WP,2 Bd/3 Person-Double,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,0
 Westwood Palms Apartments,WP,2 Bd/3 Person-Double,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,0
+Westwood Palms Apartments,WP,2 Bd/3 Person-Double,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,0
+Westwood Palms Apartments,WP,2 Bd/3 Person-Double,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,0
+Westwood Palms Apartments,WP,2 Bd/3 Person-Double,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,0
 Westwood Palms Apartments,WP,2 Bd/3 Person-Double,Apartment,Male,2025-02-18T09:00:00Z,14
 Westwood Palms Apartments,WP,2 Bd/3 Person-Double,Apartment,Male,2025-02-18T10:00:00Z,14
 Westwood Palms Apartments,WP,2 Bd/3 Person-Double,Apartment,Male,2025-02-18T11:00:00Z,14
 Westwood Palms Apartments,WP,2 Bd/3 Person-Double,Apartment,Male,2025-02-18T12:00:00Z,14
+Westwood Palms Apartments,WP,2 Bd/3 Person-Double,Apartment,Male,2025-02-18T13:00:00Z,14
+Westwood Palms Apartments,WP,2 Bd/3 Person-Double,Apartment,Male,2025-02-18T14:00:00Z,11
+Westwood Palms Apartments,WP,2 Bd/3 Person-Double,Apartment,Male,2025-02-18T15:00:00Z,5
 Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Female,2025-02-18T09:00:00Z,28
 Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Female,2025-02-18T10:00:00Z,28
 Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Female,2025-02-18T11:00:00Z,26
 Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Female,2025-02-18T12:00:00Z,7
+Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Female,2025-02-18T13:00:00Z,0
+Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Female,2025-02-18T14:00:00Z,0
+Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Female,2025-02-18T15:00:00Z,0
 Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T09:00:00Z,4
 Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T10:00:00Z,0
 Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T11:00:00Z,0
 Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T12:00:00Z,0
+Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T13:00:00Z,0
+Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T14:00:00Z,0
+Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Gender Inclusive,2025-02-18T15:00:00Z,0
 Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Male,2025-02-18T09:00:00Z,16
 Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Male,2025-02-18T10:00:00Z,15
 Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Male,2025-02-18T11:00:00Z,12
 Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Male,2025-02-18T12:00:00Z,4
+Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Male,2025-02-18T13:00:00Z,3
+Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Male,2025-02-18T14:00:00Z,3
+Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Male,2025-02-18T15:00:00Z,3
+De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T09:00:00Z,750
+De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T10:00:00Z,736
+De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T11:00:00Z,725
+De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T12:00:00Z,725
+De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T13:00:00Z,723
+De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T14:00:00Z,714
+De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T15:00:00Z,706
+De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,33
+De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,33
+De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,30
+De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,30
+De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Gender Inclusive,2025-02-18T13:00:00Z,30
+De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Gender Inclusive,2025-02-18T14:00:00Z,30
+De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Gender Inclusive,2025-02-18T15:00:00Z,30
+De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T09:00:00Z,462
+De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T10:00:00Z,457
+De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T11:00:00Z,447
+De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T12:00:00Z,439
+De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T13:00:00Z,436
+De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T14:00:00Z,436
+De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T15:00:00Z,428
+De Neve Residence Hall,DN,Deluxe Triple,Dorm,Female,2025-02-18T09:00:00Z,273
+De Neve Residence Hall,DN,Deluxe Triple,Dorm,Female,2025-02-18T10:00:00Z,271
+De Neve Residence Hall,DN,Deluxe Triple,Dorm,Female,2025-02-18T11:00:00Z,268
+De Neve Residence Hall,DN,Deluxe Triple,Dorm,Female,2025-02-18T12:00:00Z,264
+De Neve Residence Hall,DN,Deluxe Triple,Dorm,Female,2025-02-18T13:00:00Z,264
+De Neve Residence Hall,DN,Deluxe Triple,Dorm,Female,2025-02-18T14:00:00Z,257
+De Neve Residence Hall,DN,Deluxe Triple,Dorm,Female,2025-02-18T15:00:00Z,256
+De Neve Residence Hall,DN,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,33
+De Neve Residence Hall,DN,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,33
+De Neve Residence Hall,DN,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,33
+De Neve Residence Hall,DN,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,33
+De Neve Residence Hall,DN,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T13:00:00Z,33
+De Neve Residence Hall,DN,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T14:00:00Z,27
+De Neve Residence Hall,DN,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T15:00:00Z,27
+De Neve Residence Hall,DN,Deluxe Triple,Dorm,Male,2025-02-18T09:00:00Z,126
+De Neve Residence Hall,DN,Deluxe Triple,Dorm,Male,2025-02-18T10:00:00Z,126
+De Neve Residence Hall,DN,Deluxe Triple,Dorm,Male,2025-02-18T11:00:00Z,126
+De Neve Residence Hall,DN,Deluxe Triple,Dorm,Male,2025-02-18T12:00:00Z,126
+De Neve Residence Hall,DN,Deluxe Triple,Dorm,Male,2025-02-18T13:00:00Z,126
+De Neve Residence Hall,DN,Deluxe Triple,Dorm,Male,2025-02-18T14:00:00Z,126
+De Neve Residence Hall,DN,Deluxe Triple,Dorm,Male,2025-02-18T15:00:00Z,124
+Dykstra Hall,DYK,Classic Triple,Dorm,Female,2025-02-18T09:00:00Z,468
+Dykstra Hall,DYK,Classic Triple,Dorm,Female,2025-02-18T10:00:00Z,468
+Dykstra Hall,DYK,Classic Triple,Dorm,Female,2025-02-18T11:00:00Z,468
+Dykstra Hall,DYK,Classic Triple,Dorm,Female,2025-02-18T12:00:00Z,468
+Dykstra Hall,DYK,Classic Triple,Dorm,Female,2025-02-18T13:00:00Z,463
+Dykstra Hall,DYK,Classic Triple,Dorm,Female,2025-02-18T14:00:00Z,461
+Dykstra Hall,DYK,Classic Triple,Dorm,Female,2025-02-18T15:00:00Z,459
+Dykstra Hall,DYK,Classic Triple,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,36
+Dykstra Hall,DYK,Classic Triple,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,36
+Dykstra Hall,DYK,Classic Triple,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,36
+Dykstra Hall,DYK,Classic Triple,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,36
+Dykstra Hall,DYK,Classic Triple,Dorm,Gender Inclusive,2025-02-18T13:00:00Z,36
+Dykstra Hall,DYK,Classic Triple,Dorm,Gender Inclusive,2025-02-18T14:00:00Z,36
+Dykstra Hall,DYK,Classic Triple,Dorm,Gender Inclusive,2025-02-18T15:00:00Z,36
+Dykstra Hall,DYK,Classic Triple,Dorm,Male,2025-02-18T09:00:00Z,261
+Dykstra Hall,DYK,Classic Triple,Dorm,Male,2025-02-18T10:00:00Z,260
+Dykstra Hall,DYK,Classic Triple,Dorm,Male,2025-02-18T11:00:00Z,260
+Dykstra Hall,DYK,Classic Triple,Dorm,Male,2025-02-18T12:00:00Z,260
+Dykstra Hall,DYK,Classic Triple,Dorm,Male,2025-02-18T13:00:00Z,260
+Dykstra Hall,DYK,Classic Triple,Dorm,Male,2025-02-18T14:00:00Z,260
+Dykstra Hall,DYK,Classic Triple,Dorm,Male,2025-02-18T15:00:00Z,260
+Hedrick Hall,HED,Classic Triple,Dorm,Female,2025-02-18T09:00:00Z,588
+Hedrick Hall,HED,Classic Triple,Dorm,Female,2025-02-18T10:00:00Z,588
+Hedrick Hall,HED,Classic Triple,Dorm,Female,2025-02-18T11:00:00Z,580
+Hedrick Hall,HED,Classic Triple,Dorm,Female,2025-02-18T12:00:00Z,580
+Hedrick Hall,HED,Classic Triple,Dorm,Female,2025-02-18T13:00:00Z,580
+Hedrick Hall,HED,Classic Triple,Dorm,Female,2025-02-18T14:00:00Z,580
+Hedrick Hall,HED,Classic Triple,Dorm,Female,2025-02-18T15:00:00Z,580
+Hedrick Hall,HED,Classic Triple,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,48
+Hedrick Hall,HED,Classic Triple,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,48
+Hedrick Hall,HED,Classic Triple,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,48
+Hedrick Hall,HED,Classic Triple,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,48
+Hedrick Hall,HED,Classic Triple,Dorm,Gender Inclusive,2025-02-18T13:00:00Z,48
+Hedrick Hall,HED,Classic Triple,Dorm,Gender Inclusive,2025-02-18T14:00:00Z,48
+Hedrick Hall,HED,Classic Triple,Dorm,Gender Inclusive,2025-02-18T15:00:00Z,48
+Hedrick Hall,HED,Classic Triple,Dorm,Male,2025-02-18T09:00:00Z,366
+Hedrick Hall,HED,Classic Triple,Dorm,Male,2025-02-18T10:00:00Z,366
+Hedrick Hall,HED,Classic Triple,Dorm,Male,2025-02-18T11:00:00Z,366
+Hedrick Hall,HED,Classic Triple,Dorm,Male,2025-02-18T12:00:00Z,366
+Hedrick Hall,HED,Classic Triple,Dorm,Male,2025-02-18T13:00:00Z,366
+Hedrick Hall,HED,Classic Triple,Dorm,Male,2025-02-18T14:00:00Z,366
+Hedrick Hall,HED,Classic Triple,Dorm,Male,2025-02-18T15:00:00Z,366
+Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T09:00:00Z,414
+Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T10:00:00Z,411
+Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T11:00:00Z,411
+Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T12:00:00Z,411
+Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T13:00:00Z,410
+Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T14:00:00Z,410
+Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T15:00:00Z,410
+Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,30
+Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,30
+Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,30
+Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,30
+Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T13:00:00Z,30
+Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T14:00:00Z,30
+Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T15:00:00Z,30
+Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T09:00:00Z,252
+Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T10:00:00Z,252
+Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T11:00:00Z,252
+Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T12:00:00Z,251
+Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T13:00:00Z,251
+Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T14:00:00Z,251
+Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T15:00:00Z,251
+Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Female,2025-02-18T09:00:00Z,264
+Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Female,2025-02-18T10:00:00Z,264
+Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Female,2025-02-18T11:00:00Z,264
+Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Female,2025-02-18T12:00:00Z,264
+Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Female,2025-02-18T13:00:00Z,263
+Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Female,2025-02-18T14:00:00Z,261
+Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Female,2025-02-18T15:00:00Z,263
+Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,18
+Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,18
+Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,18
+Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,18
+Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T13:00:00Z,18
+Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T14:00:00Z,18
+Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T15:00:00Z,18
+Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Male,2025-02-18T09:00:00Z,168
+Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Male,2025-02-18T10:00:00Z,168
+Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Male,2025-02-18T11:00:00Z,168
+Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Male,2025-02-18T12:00:00Z,168
+Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Male,2025-02-18T13:00:00Z,168
+Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Male,2025-02-18T14:00:00Z,168
+Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Male,2025-02-18T15:00:00Z,168
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Female,2025-02-18T09:00:00Z,999
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Female,2025-02-18T10:00:00Z,993
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Female,2025-02-18T11:00:00Z,980
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Female,2025-02-18T12:00:00Z,967
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Female,2025-02-18T13:00:00Z,961
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Female,2025-02-18T14:00:00Z,942
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Female,2025-02-18T15:00:00Z,932
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,81
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,81
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,80
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,71
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T13:00:00Z,68
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T14:00:00Z,66
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T15:00:00Z,66
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Male,2025-02-18T09:00:00Z,594
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Male,2025-02-18T10:00:00Z,582
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Male,2025-02-18T11:00:00Z,571
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Male,2025-02-18T12:00:00Z,549
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Male,2025-02-18T13:00:00Z,544
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Male,2025-02-18T14:00:00Z,538
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Male,2025-02-18T15:00:00Z,528
+Rieber Hall,RIE,Classic Triple,Dorm,Female,2025-02-18T09:00:00Z,567
+Rieber Hall,RIE,Classic Triple,Dorm,Female,2025-02-18T10:00:00Z,564
+Rieber Hall,RIE,Classic Triple,Dorm,Female,2025-02-18T11:00:00Z,564
+Rieber Hall,RIE,Classic Triple,Dorm,Female,2025-02-18T12:00:00Z,559
+Rieber Hall,RIE,Classic Triple,Dorm,Female,2025-02-18T13:00:00Z,559
+Rieber Hall,RIE,Classic Triple,Dorm,Female,2025-02-18T14:00:00Z,556
+Rieber Hall,RIE,Classic Triple,Dorm,Female,2025-02-18T15:00:00Z,556
+Rieber Hall,RIE,Classic Triple,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,48
+Rieber Hall,RIE,Classic Triple,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,48
+Rieber Hall,RIE,Classic Triple,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,48
+Rieber Hall,RIE,Classic Triple,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,48
+Rieber Hall,RIE,Classic Triple,Dorm,Gender Inclusive,2025-02-18T13:00:00Z,48
+Rieber Hall,RIE,Classic Triple,Dorm,Gender Inclusive,2025-02-18T14:00:00Z,48
+Rieber Hall,RIE,Classic Triple,Dorm,Gender Inclusive,2025-02-18T15:00:00Z,48
+Rieber Hall,RIE,Classic Triple,Dorm,Male,2025-02-18T09:00:00Z,381
+Rieber Hall,RIE,Classic Triple,Dorm,Male,2025-02-18T10:00:00Z,381
+Rieber Hall,RIE,Classic Triple,Dorm,Male,2025-02-18T11:00:00Z,381
+Rieber Hall,RIE,Classic Triple,Dorm,Male,2025-02-18T12:00:00Z,380
+Rieber Hall,RIE,Classic Triple,Dorm,Male,2025-02-18T13:00:00Z,380
+Rieber Hall,RIE,Classic Triple,Dorm,Male,2025-02-18T14:00:00Z,380
+Rieber Hall,RIE,Classic Triple,Dorm,Male,2025-02-18T15:00:00Z,380
+Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T09:00:00Z,21
+Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T10:00:00Z,15
+Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T11:00:00Z,15
+Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T12:00:00Z,12
+Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T13:00:00Z,12
+Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T14:00:00Z,12
+Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T15:00:00Z,8
+Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T09:00:00Z,15
+Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T10:00:00Z,13
+Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T11:00:00Z,13
+Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T12:00:00Z,7
+Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T13:00:00Z,7
+Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T14:00:00Z,7
+Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T15:00:00Z,7
+Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T09:00:00Z,438
+Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T10:00:00Z,434
+Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T11:00:00Z,432
+Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T12:00:00Z,429
+Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T13:00:00Z,429
+Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T14:00:00Z,420
+Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T15:00:00Z,420
+Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,36
+Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,36
+Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,36
+Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,36
+Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T13:00:00Z,36
+Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T14:00:00Z,36
+Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T15:00:00Z,36
+Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T09:00:00Z,270
+Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T10:00:00Z,267
+Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T11:00:00Z,267
+Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T12:00:00Z,265
+Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T13:00:00Z,265
+Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T14:00:00Z,262
+Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T15:00:00Z,262
+Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T09:00:00Z,3
+Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T10:00:00Z,0
+Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T11:00:00Z,0
+Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T12:00:00Z,0
+Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T13:00:00Z,0
+Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T14:00:00Z,0
+Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T15:00:00Z,0
+Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T09:00:00Z,3
+Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T10:00:00Z,3
+Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T11:00:00Z,0
+Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T12:00:00Z,0
+Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T13:00:00Z,0
+Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T14:00:00Z,0
+Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T15:00:00Z,0
+Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T09:00:00Z,408
+Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T10:00:00Z,408
+Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T11:00:00Z,397
+Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T12:00:00Z,390
+Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T13:00:00Z,384
+Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T14:00:00Z,384
+Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T15:00:00Z,383
+Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,30
+Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,30
+Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,30
+Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,30
+Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T13:00:00Z,30
+Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T14:00:00Z,30
+Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T15:00:00Z,30
+Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T09:00:00Z,252
+Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T10:00:00Z,252
+Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T11:00:00Z,252
+Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T12:00:00Z,252
+Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T13:00:00Z,252
+Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T14:00:00Z,250
+Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T15:00:00Z,250
+Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Female,2025-02-18T09:00:00Z,258
+Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Female,2025-02-18T10:00:00Z,249
+Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Female,2025-02-18T11:00:00Z,241
+Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Female,2025-02-18T12:00:00Z,238
+Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Female,2025-02-18T13:00:00Z,238
+Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Female,2025-02-18T14:00:00Z,231
+Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Female,2025-02-18T15:00:00Z,232
+Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,18
+Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,18
+Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,18
+Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,18
+Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T13:00:00Z,16
+Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T14:00:00Z,14
+Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T15:00:00Z,6
+Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Male,2025-02-18T09:00:00Z,150
+Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Male,2025-02-18T10:00:00Z,138
+Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Male,2025-02-18T11:00:00Z,119
+Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Male,2025-02-18T12:00:00Z,113
+Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Male,2025-02-18T13:00:00Z,107
+Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Male,2025-02-18T14:00:00Z,107
+Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Male,2025-02-18T15:00:00Z,107
+Sproul Hall,SPR,Classic Triple,Dorm,Female,2025-02-18T09:00:00Z,579
+Sproul Hall,SPR,Classic Triple,Dorm,Female,2025-02-18T10:00:00Z,571
+Sproul Hall,SPR,Classic Triple,Dorm,Female,2025-02-18T11:00:00Z,563
+Sproul Hall,SPR,Classic Triple,Dorm,Female,2025-02-18T12:00:00Z,554
+Sproul Hall,SPR,Classic Triple,Dorm,Female,2025-02-18T13:00:00Z,540
+Sproul Hall,SPR,Classic Triple,Dorm,Female,2025-02-18T14:00:00Z,540
+Sproul Hall,SPR,Classic Triple,Dorm,Female,2025-02-18T15:00:00Z,535
+Sproul Hall,SPR,Classic Triple,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,51
+Sproul Hall,SPR,Classic Triple,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,51
+Sproul Hall,SPR,Classic Triple,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,51
+Sproul Hall,SPR,Classic Triple,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,51
+Sproul Hall,SPR,Classic Triple,Dorm,Gender Inclusive,2025-02-18T13:00:00Z,48
+Sproul Hall,SPR,Classic Triple,Dorm,Gender Inclusive,2025-02-18T14:00:00Z,41
+Sproul Hall,SPR,Classic Triple,Dorm,Gender Inclusive,2025-02-18T15:00:00Z,41
+Sproul Hall,SPR,Classic Triple,Dorm,Male,2025-02-18T09:00:00Z,369
+Sproul Hall,SPR,Classic Triple,Dorm,Male,2025-02-18T10:00:00Z,360
+Sproul Hall,SPR,Classic Triple,Dorm,Male,2025-02-18T11:00:00Z,359
+Sproul Hall,SPR,Classic Triple,Dorm,Male,2025-02-18T12:00:00Z,356
+Sproul Hall,SPR,Classic Triple,Dorm,Male,2025-02-18T13:00:00Z,353
+Sproul Hall,SPR,Classic Triple,Dorm,Male,2025-02-18T14:00:00Z,353
+Sproul Hall,SPR,Classic Triple,Dorm,Male,2025-02-18T15:00:00Z,351
+Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Female,2025-02-18T09:00:00Z,597
+Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Female,2025-02-18T10:00:00Z,569
+Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Female,2025-02-18T11:00:00Z,547
+Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Female,2025-02-18T12:00:00Z,510
+Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Female,2025-02-18T13:00:00Z,492
+Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Female,2025-02-18T14:00:00Z,485
+Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Female,2025-02-18T15:00:00Z,475
+Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,45
+Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,40
+Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,37
+Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,37
+Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T13:00:00Z,37
+Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T14:00:00Z,28
+Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Gender Inclusive,2025-02-18T15:00:00Z,19
+Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Male,2025-02-18T09:00:00Z,363
+Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Male,2025-02-18T10:00:00Z,348
+Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Male,2025-02-18T11:00:00Z,331
+Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Male,2025-02-18T12:00:00Z,314
+Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Male,2025-02-18T13:00:00Z,282
+Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Male,2025-02-18T14:00:00Z,277
+Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Male,2025-02-18T15:00:00Z,266
+Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T09:00:00Z,507
+Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T10:00:00Z,504
+Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T11:00:00Z,501
+Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T12:00:00Z,492
+Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T13:00:00Z,489
+Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T14:00:00Z,476
+Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Female,2025-02-18T15:00:00Z,464
+Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,39
+Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,39
+Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,39
+Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,39
+Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Gender Inclusive,2025-02-18T13:00:00Z,39
+Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Gender Inclusive,2025-02-18T14:00:00Z,39
+Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Gender Inclusive,2025-02-18T15:00:00Z,39
+Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T09:00:00Z,309
+Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T10:00:00Z,306
+Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T11:00:00Z,302
+Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T12:00:00Z,294
+Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T13:00:00Z,294
+Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T14:00:00Z,285
+Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Male,2025-02-18T15:00:00Z,284
+Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T09:00:00Z,456
+Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T10:00:00Z,456
+Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T11:00:00Z,456
+Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T12:00:00Z,456
+Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T13:00:00Z,444
+Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T14:00:00Z,442
+Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Female,2025-02-18T15:00:00Z,442
+Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T09:00:00Z,36
+Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T10:00:00Z,36
+Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T11:00:00Z,36
+Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T12:00:00Z,36
+Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T13:00:00Z,36
+Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T14:00:00Z,36
+Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,2025-02-18T15:00:00Z,36
+Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T09:00:00Z,282
+Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T10:00:00Z,282
+Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T11:00:00Z,282
+Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T12:00:00Z,282
+Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T13:00:00Z,282
+Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T14:00:00Z,279
+Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Male,2025-02-18T15:00:00Z,278
