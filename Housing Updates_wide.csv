@@ -1,4 +1,4 @@
-Building,Abbreviation,RoomType,BuildingType,Gender,2025-02-18 09:00:00,2025-02-18 10:00:00,2025-02-18 11:00:00,2025-02-18 12:00:00,2025-02-18 13:00:00,2025-02-18 14:00:00,2025-02-18 15:00:00,2025-02-18 16:00:00,2025-02-19 10:00:00,2025-02-19 11:00:00,2025-02-19 12:00:00,2025-02-19 13:00:00,2025-02-19 15:00:00
+Building,Abbreviation,RoomType,BuildingType,Gender,2025-02-18 09:00:00,2025-02-18 10:00:00,2025-02-18 11:00:00,2025-02-18 12:00:00,2025-02-18 13:00:00,2025-02-18 14:00:00,2025-02-18 15:00:00,2025-02-18 16:00:00,2025-02-19 10:00:00,2025-02-19 11:00:00,2025-02-19 12:00:00,2025-02-19 13:00:00,2025-02-19 16:00:00
 Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Female,164,157,146,90,5,0,0,0,0,0,0,0,0
 Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Gender Inclusive,12,2,2,2,0,0,0,0,0,0,0,0,0
 Gayley Court Apartments,GC,2 Bd/4 Person,Apartment,Male,100,100,87,71,53,28,6,0,0,0,0,0,0
@@ -25,7 +25,7 @@ Gayley Heights,GH,3 Bd/8 Person-Triple,Apartment,Male,6,6,6,6,6,6,6,6,1,0,0,0,0
 Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Female,70,70,70,70,66,50,26,10,0,0,0,0,0
 Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Gender Inclusive,4,4,2,0,0,0,0,0,0,0,0,0,0
 Gayley Heights,GH,4 Bd/10 Person-Double,Apartment,Male,44,40,40,40,40,38,33,24,0,0,0,0,0
-Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Female,108,108,108,108,102,102,90,76,43,7,2,0,0
+Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Female,108,108,108,108,102,102,90,76,43,7,2,0,1
 Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,6,6,0,0,0,0,0,0,0,0,0,0,0
 Gayley Heights,GH,4 Bd/10 Person-Triple,Apartment,Male,66,60,60,60,60,60,54,47,27,21,10,7,0
 Glenrock Apartments,GR,2 Bd/3 Person-Double,Apartment,Female,4,0,0,0,0,0,0,0,0,0,0,0,0
@@ -63,8 +63,8 @@ Laurel,LA,2 Bd/4 Person,Apartment,Gender Inclusive,4,4,0,0,0,0,0,0,0,0,0,0,0
 Laurel,LA,2 Bd/4 Person,Apartment,Male,12,4,4,3,3,2,1,1,0,0,0,0,0
 Laurel,LA,4 Bd/10 Person-Double,Apartment,Female,172,172,172,172,172,166,165,158,121,91,50,21,0
 Laurel,LA,4 Bd/10 Person-Double,Apartment,Gender Inclusive,12,12,12,10,0,0,0,0,0,0,0,0,0
-Laurel,LA,4 Bd/10 Person-Double,Apartment,Male,100,100,100,100,100,98,98,96,94,86,72,57,28
-Laurel,LA,4 Bd/10 Person-Triple,Apartment,Female,258,258,258,258,258,258,258,258,244,235,235,235,218
+Laurel,LA,4 Bd/10 Person-Double,Apartment,Male,100,100,100,100,100,98,98,96,94,86,72,57,25
+Laurel,LA,4 Bd/10 Person-Triple,Apartment,Female,258,258,258,258,258,258,258,258,244,235,235,235,211
 Laurel,LA,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,18,18,18,12,0,0,0,0,0,0,0,0,0
 Laurel,LA,4 Bd/10 Person-Triple,Apartment,Male,150,150,150,150,150,150,149,149,149,146,146,136,115
 Levering Terrace Apartments,LT,1 Bd/3 Person,Apartment,Female,12,3,1,1,1,1,0,0,0,0,0,0,0
@@ -73,26 +73,26 @@ Levering Terrace Apartments,LT,2 Bd/7 Person-Quad,Apartment,Female,20,20,20,20,2
 Levering Terrace Apartments,LT,2 Bd/7 Person-Quad,Apartment,Male,12,12,12,12,12,12,12,12,12,12,0,0,0
 Levering Terrace Apartments,LT,2 Bd/7 Person-Triple,Apartment,Female,15,15,15,15,15,15,3,4,0,0,0,0,0
 Levering Terrace Apartments,LT,2 Bd/7 Person-Triple,Apartment,Male,9,9,9,9,9,9,9,9,9,6,2,0,0
-Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Female,120,120,120,120,120,120,120,117,103,81,51,33,18
+Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Female,120,120,120,120,120,120,120,117,103,81,51,33,14
 Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Gender Inclusive,8,8,8,0,0,0,0,0,0,0,0,0,0
 Levering Terrace Apartments,LT,2 Bd/8 Person,Apartment,Male,64,64,64,64,64,64,59,59,59,55,49,44,39
 Palo Verde,PV,2 Bd/4 Person,Apartment,Female,8,8,6,6,3,1,0,0,0,0,0,0,0
 Palo Verde,PV,2 Bd/4 Person,Apartment,Male,4,4,4,0,0,0,0,0,0,0,0,0,0
 Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Female,96,96,96,96,96,96,87,85,75,63,48,29,0
 Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Gender Inclusive,12,12,12,8,1,0,0,0,0,0,0,0,0
-Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Male,56,56,56,56,56,56,52,55,49,42,33,32,16
-Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Female,144,144,144,144,144,144,142,142,140,140,131,127,119
+Palo Verde,PV,4 Bd/10 Person-Double,Apartment,Male,56,56,56,56,56,56,52,55,49,42,33,32,14
+Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Female,144,144,144,144,144,144,142,142,140,140,131,127,113
 Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,18,18,18,18,18,1,1,1,1,1,1,1,0
-Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Male,84,84,84,84,84,84,80,82,76,71,71,69,65
+Palo Verde,PV,4 Bd/10 Person-Triple,Apartment,Male,84,84,84,84,84,84,80,82,76,71,71,69,64
 Tipuana,TN,2 Bd/4 Person,Apartment,Female,60,56,50,22,4,1,0,0,0,0,0,0,0
 Tipuana,TN,2 Bd/4 Person,Apartment,Gender Inclusive,4,4,0,0,0,0,0,0,0,0,0,0,0
 Tipuana,TN,2 Bd/4 Person,Apartment,Male,32,28,31,24,16,3,1,0,0,0,0,0,0
 Tipuana,TN,4 Bd/10 Person-Double,Apartment,Female,196,196,196,196,192,186,168,166,122,79,50,31,0
 Tipuana,TN,4 Bd/10 Person-Double,Apartment,Gender Inclusive,16,16,16,8,0,0,0,0,0,0,0,0,0
-Tipuana,TN,4 Bd/10 Person-Double,Apartment,Male,120,120,120,120,120,120,119,118,112,95,86,82,38
-Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Female,294,294,294,294,294,294,291,291,285,278,264,254,239
+Tipuana,TN,4 Bd/10 Person-Double,Apartment,Male,120,120,120,120,120,120,119,118,112,95,86,82,30
+Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Female,294,294,294,294,294,294,291,291,285,278,264,254,224
 Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Gender Inclusive,24,24,24,22,8,2,2,0,0,0,0,0,0
-Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Male,180,180,180,180,180,180,180,180,178,178,178,178,145
+Tipuana,TN,4 Bd/10 Person-Triple,Apartment,Male,180,180,180,180,180,180,180,180,178,178,178,178,142
 Westwood Chateau Apartments,WC,1 Bd/3 Person,Apartment,Female,36,33,33,31,22,0,0,0,0,0,0,0,0
 Westwood Chateau Apartments,WC,1 Bd/3 Person,Apartment,Male,18,18,18,18,12,3,0,0,0,0,0,0,0
 Westwood Chateau Apartments,WC,2 Bd/4 Person,Apartment,Female,112,108,96,74,11,0,0,0,0,0,0,0,0
@@ -105,52 +105,52 @@ Westwood Palms Apartments,WP,2 Bd/3 Person-Double,Apartment,Male,14,14,14,14,14,
 Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Female,28,28,26,7,0,0,0,0,0,0,0,0,0
 Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Gender Inclusive,4,0,0,0,0,0,0,0,0,0,0,0,0
 Westwood Palms Apartments,WP,2 Bd/4 Person,Apartment,Male,16,15,12,4,3,3,3,1,0,0,0,0,0
-De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Female,750,736,725,725,723,714,706,706,696,678,675,670,653
+De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Female,750,736,725,725,723,714,706,706,696,678,675,670,651
 De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Gender Inclusive,33,33,30,30,30,30,30,30,30,30,30,24,24
-De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Male,462,457,447,439,436,436,428,424,421,416,413,389,369
-De Neve Residence Hall,DN,Deluxe Triple,Dorm,Female,273,271,268,264,264,257,256,254,252,251,250,247,243
+De Neve Plaza,DEN,Plaza Triple/Private Bath,Dorm,Male,462,457,447,439,436,436,428,424,421,416,413,389,356
+De Neve Residence Hall,DN,Deluxe Triple,Dorm,Female,273,271,268,264,264,257,256,254,252,251,250,247,244
 De Neve Residence Hall,DN,Deluxe Triple,Dorm,Gender Inclusive,33,33,33,33,33,27,27,27,27,27,27,27,27
-De Neve Residence Hall,DN,Deluxe Triple,Dorm,Male,126,126,126,126,126,126,124,122,122,122,122,119,117
+De Neve Residence Hall,DN,Deluxe Triple,Dorm,Male,126,126,126,126,126,126,124,122,122,122,122,119,113
 Dykstra Hall,DYK,Classic Triple,Dorm,Female,468,468,468,468,463,461,459,456,455,454,454,454,450
 Dykstra Hall,DYK,Classic Triple,Dorm,Gender Inclusive,36,36,36,36,36,36,36,36,36,36,36,36,36
-Dykstra Hall,DYK,Classic Triple,Dorm,Male,261,260,260,260,260,260,260,260,260,260,259,259,257
+Dykstra Hall,DYK,Classic Triple,Dorm,Male,261,260,260,260,260,260,260,260,260,260,259,259,251
 Hedrick Hall,HED,Classic Triple,Dorm,Female,588,588,580,580,580,580,580,580,580,580,580,580,580
 Hedrick Hall,HED,Classic Triple,Dorm,Gender Inclusive,48,48,48,48,48,48,48,48,48,48,48,48,48
 Hedrick Hall,HED,Classic Triple,Dorm,Male,366,366,366,366,366,366,366,366,366,366,366,366,366
 Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Female,414,411,411,411,410,410,410,409,409,408,407,407,402
 Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,30,30,30,30,30,30,30,30,30,30,30,30,30
 Hedrick Summit,SMT,Plaza Triple/Shared Bath,Dorm,Male,252,252,252,251,251,251,251,251,251,251,251,251,251
-Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Female,264,264,264,264,263,261,263,263,263,261,261,261,260
+Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Female,264,264,264,264,263,261,263,263,263,261,261,261,259
 Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Gender Inclusive,18,18,18,18,18,18,18,18,18,14,14,4,4
-Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Male,168,168,168,168,168,168,168,167,167,167,167,167,167
-Olympic / Centennial,OC,Deluxe Triple,Dorm,Female,999,993,980,967,961,942,932,923,907,899,875,858,823
-Olympic / Centennial,OC,Deluxe Triple,Dorm,Gender Inclusive,81,81,80,71,68,66,66,66,66,63,60,60,51
-Olympic / Centennial,OC,Deluxe Triple,Dorm,Male,594,582,571,549,544,538,528,514,506,503,494,487,472
-Rieber Hall,RIE,Classic Triple,Dorm,Female,567,564,564,559,559,556,556,556,554,554,554,554,551
+Hitch Suites,HIT,Suite Triple/Shared Bath,Dorm,Male,168,168,168,168,168,168,168,167,167,167,167,167,160
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Female,999,993,980,967,961,942,932,923,907,899,875,858,809
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Gender Inclusive,81,81,80,71,68,66,66,66,66,63,60,60,50
+Olympic / Centennial,OC,Deluxe Triple,Dorm,Male,594,582,571,549,544,538,528,514,506,503,494,487,458
+Rieber Hall,RIE,Classic Triple,Dorm,Female,567,564,564,559,559,556,556,556,554,554,554,554,550
 Rieber Hall,RIE,Classic Triple,Dorm,Gender Inclusive,48,48,48,48,48,48,48,48,48,48,48,48,48
-Rieber Hall,RIE,Classic Triple,Dorm,Male,381,381,381,380,380,380,380,377,377,377,377,376,372
-Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Female,21,15,15,12,12,12,8,8,3,3,3,2,1
-Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Male,15,13,13,7,7,7,7,6,6,5,1,0,3
+Rieber Hall,RIE,Classic Triple,Dorm,Male,381,381,381,380,380,380,380,377,377,377,377,376,371
+Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Female,21,15,15,12,12,12,8,8,3,3,3,2,0
+Rieber Terrace,RT,Plaza Triple/Private Bath,Dorm,Male,15,13,13,7,7,7,7,6,6,5,1,0,0
 Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Female,438,434,432,429,429,420,420,418,418,418,418,415,401
 Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,36,36,36,36,36,36,36,36,36,36,36,36,36
-Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Male,270,267,267,265,265,262,262,262,261,261,261,260,257
+Rieber Terrace,RT,Plaza Triple/Shared Bath,Dorm,Male,270,267,267,265,265,262,262,262,261,261,261,260,255
 Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Female,3,0,0,0,0,0,0,0,0,0,0,0,0
 Rieber Vista,RV,Plaza Triple/Private Bath,Dorm,Male,3,3,0,0,0,0,0,0,0,0,0,0,0
 Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Female,408,408,397,390,384,384,383,383,380,380,379,379,375
 Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,30,30,30,30,30,30,30,30,30,30,30,30,30
-Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Male,252,252,252,252,252,250,250,250,250,250,250,249,244
-Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Female,258,249,241,238,238,231,232,231,221,215,213,200,195
+Rieber Vista,RV,Plaza Triple/Shared Bath,Dorm,Male,252,252,252,252,252,250,250,250,250,250,250,249,243
+Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Female,258,249,241,238,238,231,232,231,221,215,213,200,194
 Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Gender Inclusive,18,18,18,18,16,14,6,6,0,0,0,0,0
-Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Male,150,138,119,113,107,107,107,100,88,80,80,62,54
+Saxon Suites,SAX,Suite Triple/Shared Bath,Dorm,Male,150,138,119,113,107,107,107,100,88,80,80,62,46
 Sproul Hall,SPR,Classic Triple,Dorm,Female,579,571,563,554,540,540,535,532,530,529,526,525,524
 Sproul Hall,SPR,Classic Triple,Dorm,Gender Inclusive,51,51,51,51,48,41,41,41,38,38,38,38,38
-Sproul Hall,SPR,Classic Triple,Dorm,Male,369,360,359,356,353,353,351,351,349,349,349,344,341
-Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Female,597,569,547,510,492,485,475,472,457,432,416,405,378
+Sproul Hall,SPR,Classic Triple,Dorm,Male,369,360,359,356,353,353,351,351,349,349,349,344,340
+Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Female,597,569,547,510,492,485,475,472,457,432,416,405,369
 Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Gender Inclusive,45,40,37,37,37,28,19,16,16,13,13,10,8
-Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Male,363,348,331,314,282,277,266,265,256,249,244,228,212
-Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Female,507,504,501,492,489,476,464,461,454,449,443,440,421
+Sproul Landing / Cove,SLC,Deluxe Triple,Dorm,Male,363,348,331,314,282,277,266,265,256,249,244,228,203
+Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Female,507,504,501,492,489,476,464,461,454,449,443,440,418
 Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Gender Inclusive,39,39,39,39,39,39,39,39,30,30,27,27,22
-Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Male,309,306,302,294,294,285,284,284,282,266,255,253,245
-Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Female,456,456,456,456,444,442,442,442,437,429,429,425,415
+Sunset Village,SV,Plaza Triple/Private Bath,Dorm,Male,309,306,302,294,294,285,284,284,282,266,255,253,240
+Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Female,456,456,456,456,444,442,442,442,437,429,429,425,414
 Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Gender Inclusive,36,36,36,36,36,36,36,36,36,30,30,30,25
 Sunset Village,SV,Plaza Triple/Shared Bath,Dorm,Male,282,282,282,282,282,279,278,278,278,277,277,277,273
